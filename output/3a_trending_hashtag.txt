@@ -1,0 +1,244 @@
+Week 23			 Total hashtags 1
+[Tweet : #redsox     count=1				 Overall Sentiment: -6.25				 Users: [redsoxtweets]
+]
+
+Week 24			 Total hashtags 461841
+[Tweet : #HP6     count=23				 Overall Sentiment: neutral				 Users: [gigiahp]
+, Tweet : #STEP5     count=20				 Overall Sentiment: neutral				 Users: [crazy4nkotb]
+, Tweet : #EDD     count=19				 Overall Sentiment: neutral				 Users: [brysonen]
+, Tweet : #yomoma     count=17				 Overall Sentiment: neutral				 Users: [fderron]
+, Tweet : #Csick09     count=15				 Overall Sentiment: neutral				 Users: [jstall12345]
+]
+
+Week 25			 Total hashtags 1055912
+[Tweet : #Demi     count=23				 Overall Sentiment: neutral				 Users: [demi_lovato_rox]
+, Tweet : #Niley     count=20				 Overall Sentiment: neutral				 Users: [laurasofiavm]
+, Tweet : #ftsk     count=20				 Overall Sentiment: neutral				 Users: [jcookgospel]
+, Tweet : #tremi     count=19				 Overall Sentiment: neutral				 Users: [saaaaaarah15]
+, Tweet : #Pac     count=18				 Overall Sentiment: neutral				 Users: [princesstrinaj]
+]
+
+Week 26			 Total hashtags 949641
+[Tweet : #FTSK     count=23				 Overall Sentiment: neutral				 Users: [xftskx]
+, Tweet : #tumblr     count=17				 Overall Sentiment: neutral				 Users: [hoodratthings]
+, Tweet : #Twan     count=17				 Overall Sentiment: neutral				 Users: [demi_lovato_rox]
+, Tweet : #dannyk     count=16				 Overall Sentiment: neutral				 Users: [vuhnessuh]
+, Tweet : #SPday     count=16				 Overall Sentiment: neutral				 Users: [isasp]
+]
+
+Week 27			 Total hashtags 893698
+[Tweet : #psh     count=28				 Overall Sentiment: neutral				 Users: [bhappy4eva]
+, Tweet : #UHA     count=21				 Overall Sentiment: neutral				 Users: [soundlyawake]
+, Tweet : #devin     count=20				 Overall Sentiment: neutral				 Users: [panthergurl95]
+, Tweet : #mengão     count=17				 Overall Sentiment: neutral				 Users: [lipebnuzao]
+, Tweet : #CHUCA     count=16				 Overall Sentiment: neutral				 Users: [samyzita]
+]
+
+Week 28			 Total hashtags 960373
+[Tweet : #sym     count=26				 Overall Sentiment: neutral				 Users: [lioncome]
+, Tweet : #RMT     count=25				 Overall Sentiment: neutral				 Users: [matttvlover]
+, Tweet : #Keri     count=23				 Overall Sentiment: neutral				 Users: [rifkyhardyboyz]
+, Tweet : #gws     count=23				 Overall Sentiment: neutral				 Users: [ez01]
+, Tweet : #ddub     count=20				 Overall Sentiment: neutral				 Users: [ashluvsohsnap]
+]
+
+Week 29			 Total hashtags 970317
+[Tweet : #Sway     count=22				 Overall Sentiment: neutral				 Users: [souljaboyfanz]
+, Tweet : #desu     count=21				 Overall Sentiment: neutral				 Users: [ijanette]
+, Tweet : #wowp     count=21				 Overall Sentiment: neutral				 Users: [bontehond]
+, Tweet : #IAM.     count=20				 Overall Sentiment: neutral				 Users: [itzsakiiahnols]
+, Tweet : #fern     count=20				 Overall Sentiment: neutral				 Users: [gametag70]
+]
+
+Week 30			 Total hashtags 1612890
+[Tweet : #DOH     count=24				 Overall Sentiment: neutral				 Users: [kazitoshi]
+, Tweet : #lava     count=23				 Overall Sentiment: neutral				 Users: [igorhfa]
+, Tweet : #jemi     count=23				 Overall Sentiment: neutral				 Users: [bluion]
+, Tweet : #eggo     count=22				 Overall Sentiment: neutral				 Users: [misst8e]
+, Tweet : #Nemi     count=22				 Overall Sentiment: 1.52				 Users: [mailiuss]
+]
+
+Week 31			 Total hashtags 3580128
+[Tweet : #BWN     count=28				 Overall Sentiment: neutral				 Users: [natyceres]
+, Tweet : #Jaz     count=24				 Overall Sentiment: neutral				 Users: [char_sos]
+, Tweet : #Jose     count=22				 Overall Sentiment: neutral				 Users: [fresh973]
+, Tweet : #CINE     count=20				 Overall Sentiment: neutral				 Users: [nicecy]
+, Tweet : #D-YO     count=20				 Overall Sentiment: neutral				 Users: [tha_lee]
+]
+
+Week 32			 Total hashtags 3938036
+[Tweet : #nemi     count=23				 Overall Sentiment: neutral				 Users: [superrmeme]
+, Tweet : #SSTV     count=21				 Overall Sentiment: neutral				 Users: [sierradd]
+, Tweet : #TYC     count=21				 Overall Sentiment: neutral				 Users: [blahgirls]
+, Tweet : #Toyz     count=20				 Overall Sentiment: neutral				 Users: [sydneyrohan]
+, Tweet : #GLORT     count=20				 Overall Sentiment: neutral				 Users: [glamourxburns]
+]
+
+Week 33			 Total hashtags 3767512
+[Tweet : #AYE     count=27				 Overall Sentiment: neutral				 Users: [onlythebroken]
+, Tweet : #DUE     count=24				 Overall Sentiment: neutral				 Users: [tianna730]
+, Tweet : #ket     count=24				 Overall Sentiment: neutral				 Users: [gaabri]
+, Tweet : #CBE     count=22				 Overall Sentiment: neutral				 Users: [breezy_star]
+, Tweet : #kalex     count=20				 Overall Sentiment: neutral				 Users: [kaybabycakes]
+]
+
+Week 34			 Total hashtags 4187974
+[Tweet : #b4L     count=27				 Overall Sentiment: neutral				 Users: [xxsilviaxx]
+, Tweet : #Jace     count=23				 Overall Sentiment: neutral				 Users: [jedalus]
+, Tweet : #toyz     count=22				 Overall Sentiment: neutral				 Users: [ciskabizarre]
+, Tweet : #AWAY     count=20				 Overall Sentiment: neutral				 Users: [rodrigocarneir]
+, Tweet : #DOJM     count=20				 Overall Sentiment: neutral				 Users: [g4casino]
+]
+
+Week 35			 Total hashtags 3573606
+[Tweet : #poop     count=23				 Overall Sentiment: neutral				 Users: [honeyjune]
+, Tweet : #SNRC     count=22				 Overall Sentiment: neutral				 Users: [cammy_bee]
+, Tweet : #ivete     count=20				 Overall Sentiment: neutral				 Users: [liviahygino]
+, Tweet : #mecho     count=20				 Overall Sentiment: neutral				 Users: [emo_rules]
+, Tweet : #pvll     count=19				 Overall Sentiment: neutral				 Users: [ebilflindas]
+]
+
+Week 36			 Total hashtags 3532638
+[Tweet : #MCR     count=22				 Overall Sentiment: neutral				 Users: [uglygeek]
+, Tweet : #TKO     count=21				 Overall Sentiment: neutral				 Users: [tinkrbe1l3]
+, Tweet : #THTV     count=20				 Overall Sentiment: neutral				 Users: [shuly_kaulitz]
+, Tweet : #Nouf     count=19				 Overall Sentiment: neutral				 Users: [kankouri]
+, Tweet : #PIIHB     count=18				 Overall Sentiment: neutral				 Users: [dpbkmb]
+]
+
+Week 37			 Total hashtags 2753137
+[Tweet : #gir     count=27				 Overall Sentiment: neutral				 Users: [nhiisayys]
+, Tweet : #_)_     count=25				 Overall Sentiment: neutral				 Users: [gee_rst]
+, Tweet : #COKE     count=23				 Overall Sentiment: neutral				 Users: [antoinethereal]
+, Tweet : #GBC     count=23				 Overall Sentiment: neutral				 Users: [hestia209]
+, Tweet : #txf     count=22				 Overall Sentiment: neutral				 Users: [belizeanice]
+]
+
+Week 38			 Total hashtags 2702636
+[Tweet : #Ze     count=27				 Overall Sentiment: neutral				 Users: [writersblocc_ze]
+, Tweet : #oll     count=27				 Overall Sentiment: neutral				 Users: [meredithdesiree]
+, Tweet : #FFS     count=25				 Overall Sentiment: neutral				 Users: [leanne112781]
+, Tweet : #THR     count=25				 Overall Sentiment: neutral				 Users: [scubaphils]
+, Tweet : #jeff     count=22				 Overall Sentiment: neutral				 Users: [jehpamella]
+]
+
+Week 39			 Total hashtags 3153468
+[Tweet : #FAP     count=24				 Overall Sentiment: neutral				 Users: [b_easy]
+, Tweet : #oll     count=24				 Overall Sentiment: neutral				 Users: [mistersoftie]
+, Tweet : #717     count=23				 Overall Sentiment: neutral				 Users: [recentripe]
+, Tweet : #A7x     count=23				 Overall Sentiment: neutral				 Users: [gera1915]
+, Tweet : #Ably     count=22				 Overall Sentiment: neutral				 Users: [allyson715]
+]
+
+Week 40			 Total hashtags 2609111
+[Tweet : #Bã     count=33				 Overall Sentiment: neutral				 Users: [barbarababiih]
+, Tweet : #Z     count=28				 Overall Sentiment: neutral				 Users: [jheysonr]
+, Tweet : #LBW     count=28				 Overall Sentiment: neutral				 Users: [suave_lbw]
+, Tweet : #Zoe     count=25				 Overall Sentiment: neutral				 Users: [ecastillo]
+, Tweet : #água     count=20				 Overall Sentiment: neutral				 Users: [eviepepper]
+]
+
+Week 41			 Total hashtags 2344424
+[Tweet : #ce     count=29				 Overall Sentiment: neutral				 Users: [cindyladiesta]
+, Tweet : #ಠ_ಠ     count=26				 Overall Sentiment: neutral				 Users: [crash_and_q]
+, Tweet : #APD     count=24				 Overall Sentiment: -0.69				 Users: [jsaint_90s]
+, Tweet : #GND     count=24				 Overall Sentiment: neutral				 Users: [adamkparker]
+, Tweet : #jaeb     count=23				 Overall Sentiment: neutral				 Users: [jae_b]
+]
+
+Week 42			 Total hashtags 2676450
+[Tweet : #THE     count=25				 Overall Sentiment: neutral				 Users: [blueperky]
+, Tweet : #KAΨ     count=24				 Overall Sentiment: neutral				 Users: [kreativekulture]
+, Tweet : #tbz     count=24				 Overall Sentiment: neutral				 Users: [rethcork]
+, Tweet : #NOPE     count=23				 Overall Sentiment: neutral				 Users: [jctan_]
+, Tweet : #DLK     count=21				 Overall Sentiment: neutral				 Users: [cowboycaleb]
+]
+
+Week 43			 Total hashtags 2531260
+[Tweet : #OMH     count=25				 Overall Sentiment: neutral				 Users: [welovedhenrie]
+, Tweet : #SNC     count=25				 Overall Sentiment: neutral				 Users: [loveinahole]
+, Tweet : #cunt     count=23				 Overall Sentiment: neutral				 Users: [behrouzp]
+, Tweet : #dboz     count=23				 Overall Sentiment: neutral				 Users: [warnersl]
+, Tweet : #kobe     count=23				 Overall Sentiment: neutral				 Users: [sircharming]
+]
+
+Week 44			 Total hashtags 1709565
+[Tweet : #/     count=47				 Overall Sentiment: neutral				 Users: [manuelasouza]
+, Tweet : #Z     count=28				 Overall Sentiment: neutral				 Users: [jheysonr]
+, Tweet : #RKO     count=26				 Overall Sentiment: neutral				 Users: [aaopiupi]
+, Tweet : #උදාර     count=23				 Overall Sentiment: neutral				 Users: [udaraumd]
+, Tweet : #NYC     count=22				 Overall Sentiment: neutral				 Users: [kings0l0m0n]
+]
+
+Week 45			 Total hashtags 1652811
+[Tweet : #DBG     count=27				 Overall Sentiment: neutral				 Users: [lynnster23]
+, Tweet : #JLo     count=22				 Overall Sentiment: neutral				 Users: [ps_loverell]
+, Tweet : #jv     count=21				 Overall Sentiment: 0.43				 Users: [vronicah]
+, Tweet : #krp     count=21				 Overall Sentiment: neutral				 Users: [lele647]
+, Tweet : #wisp     count=19				 Overall Sentiment: neutral				 Users: [bbwraven]
+]
+
+Week 46			 Total hashtags 1758189
+[Tweet : #$HP     count=25				 Overall Sentiment: neutral				 Users: [saiccs]
+, Tweet : #Kris     count=23				 Overall Sentiment: neutral				 Users: [krisrocks25]
+, Tweet : #2k09     count=20				 Overall Sentiment: neutral				 Users: [crystalmia77]
+, Tweet : #GHBAC     count=20				 Overall Sentiment: neutral				 Users: [xerik_thorx]
+, Tweet : #WALE     count=19				 Overall Sentiment: neutral				 Users: [musiqstar]
+]
+
+Week 47			 Total hashtags 1807716
+[Tweet : #S2N     count=27				 Overall Sentiment: neutral				 Users: [dwreck_210]
+, Tweet : #G4L     count=24				 Overall Sentiment: -1.04				 Users: [supremelux]
+, Tweet : #ΩΨΦ     count=23				 Overall Sentiment: neutral				 Users: [buddylove4]
+, Tweet : #bvb     count=22				 Overall Sentiment: neutral				 Users: [bvbfanpage]
+, Tweet : #bete     count=20				 Overall Sentiment: neutral				 Users: [onyvionita]
+]
+
+Week 48			 Total hashtags 1860393
+[Tweet : #DEKO     count=23				 Overall Sentiment: neutral				 Users: [marv_nevabroke]
+, Tweet : #JOE     count=23				 Overall Sentiment: neutral				 Users: [filanskitten]
+, Tweet : #duku     count=19				 Overall Sentiment: neutral				 Users: [bobbi_ndubz]
+, Tweet : #odio,     count=19				 Overall Sentiment: neutral				 Users: [carolgremistaa]
+, Tweet : #natie     count=19				 Overall Sentiment: neutral				 Users: [smileyswift]
+]
+
+Week 49			 Total hashtags 1623740
+[Tweet : #xde     count=26				 Overall Sentiment: neutral				 Users: [pithabebroken]
+, Tweet : #ILR     count=20				 Overall Sentiment: neutral				 Users: [houstondog]
+, Tweet : #gvsu     count=19				 Overall Sentiment: neutral				 Users: [thegvsuchucks]
+, Tweet : #FLCL     count=19				 Overall Sentiment: neutral				 Users: [nikamik]
+, Tweet : #Kimbo     count=18				 Overall Sentiment: neutral				 Users: [kennywilsonjr]
+]
+
+Week 50			 Total hashtags 1798434
+[Tweet : #G30     count=25				 Overall Sentiment: neutral				 Users: [beckett3045]
+, Tweet : #DY     count=24				 Overall Sentiment: neutral				 Users: [johanalcdy]
+, Tweet : #AAR     count=24				 Overall Sentiment: neutral				 Users: [sheenasidhu]
+, Tweet : #Smut     count=20				 Overall Sentiment: neutral				 Users: [larissa_sarah]
+, Tweet : #eg3     count=20				 Overall Sentiment: neutral				 Users: [harlemdadon]
+]
+
+Week 51			 Total hashtags 1611745
+[Tweet : #O&gt;&lt;/     count=23				 Overall Sentiment: neutral				 Users: [iamblade23]
+, Tweet : #LTL     count=23				 Overall Sentiment: neutral				 Users: [awesome_ent]
+, Tweet : #JAYZ     count=22				 Overall Sentiment: neutral				 Users: [bpiii]
+, Tweet : #LO     count=20				 Overall Sentiment: neutral				 Users: [entropy__]
+, Tweet : #1431     count=20				 Overall Sentiment: neutral				 Users: [jawaheralsayegh]
+]
+
+Week 52			 Total hashtags 1659846
+[Tweet : #HAN     count=22				 Overall Sentiment: neutral				 Users: [urhighness00777]
+, Tweet : #sibuk     count=20				 Overall Sentiment: neutral				 Users: [1rm4]
+, Tweet : #mosh     count=19				 Overall Sentiment: neutral				 Users: [sethypooh]
+, Tweet : #Famm     count=18				 Overall Sentiment: neutral				 Users: [jsinlester]
+, Tweet : #iOtay     count=18				 Overall Sentiment: neutral				 Users: [amal_yusuf]
+]
+
+Week 53			 Total hashtags 923788
+[Tweet : #VKS     count=27				 Overall Sentiment: neutral				 Users: [livelikeroyalty]
+, Tweet : #veu     count=24				 Overall Sentiment: neutral				 Users: [sbtofi_original]
+, Tweet : #iCAN     count=23				 Overall Sentiment: neutral				 Users: [barbiieluvjuicy]
+, Tweet : #FBDP     count=23				 Overall Sentiment: neutral				 Users: [srburnsxmas]
+, Tweet : #KWill     count=19				 Overall Sentiment: neutral				 Users: [real_les12]
+]
+

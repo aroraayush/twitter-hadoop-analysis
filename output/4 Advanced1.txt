@@ -1,0 +1,34 @@
+Week 1	, count=2, Users [
+			User : @sweetnita, mentioned by 1 people. [doctor_v]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-01-03 18:12], 
+			User : @ReGluva, mentioned by 1 people. [doctor_v]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-01-03 18:12]]
+Week 16	, count=1, Users [
+			User : @superduperjosh, mentioned by 1 people. [candylori]
+						 Overall Sentiment : 25.0						 Hashtags used : []
+						 mentioned at : [2009-04-17 17:02]]
+Week 21	, count=2, Users [
+			User : @nati0n, mentioned by 2 people. [jameslanman]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-05-21 22:17], 
+			User : @textlich, mentioned by 1 people. [jameslanman]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-05-21 22:17]]
+Week 23	, count=8, Users [
+			User : @smokeyozzy, mentioned by 1 people. [hidexthexkey]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-06-07 02:07], 
+			User : @panico@, mentioned by 1 people. [ve_vv]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-06-05 20:09], 
+			User : @mulatta, mentioned by 1 people. [sideshowkat]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-06-07 02:07], 
+			User : @fabro84, mentioned by 1 people. [hokiepokie728]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-06-07 02:07], 
+			User : @Pensblog, mentioned by 1 people. [scatlett87]
+						 Overall Sentiment : neutral						 Hashtags used : []
+						 mentioned at : [2009-06-07 02:07]]

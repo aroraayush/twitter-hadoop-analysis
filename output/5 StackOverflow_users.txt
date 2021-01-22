@@ -1,0 +1,1123 @@
+Afghanistan	Total Users :23
+[
+			User : Afghan	 (since 2013-06-25)	 reputation=12	 upvotes=12	 views=32	 website=NA, 
+			User : Mustafa	 (since 2015-01-06)	 reputation=9	 upvotes=9	 views=0	 website=http://mustafaehsan.com, 
+			User : Rex	 (since 2012-04-29)	 reputation=2	 upvotes=2	 views=13	 website=http://williammartindale.com, 
+			User : Ashraf	 (since 2020-03-16)	 reputation=0	 upvotes=0	 views=0	 website=http://a-bawer.github.io, 
+			User : Sarwar	 (since 2019-05-04)	 reputation=0	 upvotes=0	 views=0	 website=https://www.borcope.com]
+
+Albania	Total Users :42
+[
+			User : emirjonb	 (since 2015-05-06)	 reputation=5	 upvotes=5	 views=0	 website=http://www.arra-al.com, 
+			User : Klevis	 (since 2015-10-22)	 reputation=5	 upvotes=5	 views=0	 website=http://www.klevismiho.com, 
+			User : Lead	 (since 2018-10-21)	 reputation=2	 upvotes=2	 views=4	 website=NA, 
+			User : LiriB	 (since 2019-09-23)	 reputation=2	 upvotes=2	 views=11	 website=NA, 
+			User : emilushi	 (since 2014-12-23)	 reputation=1	 upvotes=1	 views=1	 website=http://www.shomtek.com]
+
+Algeria	Total Users :135
+[
+			User : Aragon	 (since 2012-02-24)	 reputation=76	 upvotes=76	 views=38	 website=http://gis.stackexchange.com/users/3071/aragon, 
+			User : Dzero	 (since 2013-02-14)	 reputation=73	 upvotes=73	 views=116	 website=NA, 
+			User : DINA	 (since 2018-02-18)	 reputation=65	 upvotes=65	 views=30	 website=https://www.linkedin.com/in/dina-taklit/, 
+			User : Abdelouahab	 (since 2016-12-18)	 reputation=58	 upvotes=58	 views=2	 website=NA, 
+			User : Atarrsalah	 (since 2013-02-04)	 reputation=41	 upvotes=41	 views=2	 website=NA]
+
+Andorra	Total Users :4
+[
+			User : GUILLEM	 (since 2018-09-14)	 reputation=1	 upvotes=1	 views=5	 website=NA, 
+			User : mark	 (since 2019-04-15)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : Richard	 (since 2014-06-16)	 reputation=0	 upvotes=0	 views=55	 website=https://www.sierraglobalexperts.com/, 
+			User : BennyBeat	 (since 2014-04-20)	 reputation=0	 upvotes=0	 views=3	 website=NA]
+
+Angola	Total Users :3
+[
+			User : SpacePunk	 (since 2016-07-23)	 reputation=0	 upvotes=0	 views=7	 website=NA, 
+			User : mrlee	 (since 2018-11-23)	 reputation=0	 upvotes=0	 views=23	 website=NA, 
+			User : jc4walker	 (since 2019-07-17)	 reputation=0	 upvotes=0	 views=0	 website=https://www.wedoplaygrounds.com]
+
+Argentina	Total Users :560
+[
+			User : Gabriel	 (since 2012-04-16)	 reputation=365	 upvotes=365	 views=201	 website=http://gabriel-p.github.io, 
+			User : Eduardo	 (since 2011-08-31)	 reputation=275	 upvotes=275	 views=90	 website=https://about.me/eduardo.cuomo.ar, 
+			User : Jose	 (since 2015-03-18)	 reputation=274	 upvotes=274	 views=16	 website=NA, 
+			User : Enrico	 (since 2013-10-03)	 reputation=226	 upvotes=226	 views=57	 website=NA, 
+			User : Andres	 (since 2012-01-13)	 reputation=192	 upvotes=192	 views=9	 website=NA]
+
+Armenia	Total Users :62
+[
+			User : hingev	 (since 2012-02-09)	 reputation=468	 upvotes=468	 views=725	 website=http://view-source:about:blank, 
+			User : Ashot	 (since 2013-01-09)	 reputation=121	 upvotes=121	 views=141	 website=NA, 
+			User : Arman	 (since 2015-06-14)	 reputation=50	 upvotes=50	 views=21	 website=http://otanim.com, 
+			User : David	 (since 2016-02-08)	 reputation=8	 upvotes=8	 views=2	 website=NA, 
+			User : Takatalvi	 (since 2019-01-13)	 reputation=6	 upvotes=6	 views=0	 website=https://www.facebook.com/alvarofelipe]
+
+Australia	Total Users :1251
+[
+			User : andrew.46	 (since 2012-04-28)	 reputation=4047	 upvotes=4047	 views=5503	 website=http://www.andrews-corner.org, 
+			User : Mark	 (since 2010-10-29)	 reputation=689	 upvotes=689	 views=679	 website=NA, 
+			User : Peter.O	 (since 2010-10-05)	 reputation=605	 upvotes=605	 views=1171	 website=NA, 
+			User : fabricator4	 (since 2012-05-23)	 reputation=581	 upvotes=581	 views=1109	 website=http://www.ubuntu.com/, 
+			User : Maks	 (since 2010-12-10)	 reputation=535	 upvotes=535	 views=41	 website=http://manichord.com]
+
+Austria	Total Users :518
+[
+			User : guntbert	 (since 2012-12-27)	 reputation=6005	 upvotes=6005	 views=7251	 website=https://launchpad.net/~guntbert, 
+			User : abu_bua	 (since 2018-02-03)	 reputation=2357	 upvotes=2357	 views=3024	 website=NA, 
+			User : Torben	 (since 2010-11-08)	 reputation=602	 upvotes=602	 views=1427	 website=http://torben.g-b.dk/+, 
+			User : Stefan	 (since 2013-06-19)	 reputation=253	 upvotes=253	 views=4	 website=NA, 
+			User : workflow	 (since 2013-10-16)	 reputation=243	 upvotes=243	 views=6	 website=http://www.tenx.tech]
+
+Azerbaijan	Total Users :44
+[
+			User : sambua	 (since 2015-04-13)	 reputation=70	 upvotes=70	 views=1	 website=http://www.avagr.com, 
+			User : Shaig	 (since 2015-08-21)	 reputation=27	 upvotes=27	 views=3	 website=http://www.shaig.me, 
+			User : Elvin	 (since 2012-08-20)	 reputation=13	 upvotes=13	 views=15	 website=http://guaven.com/our-products/woo-search-box/, 
+			User : Orkhan	 (since 2019-10-15)	 reputation=6	 upvotes=6	 views=0	 website=https://www.linkedin.com/in/orkhan-alikhanov/, 
+			User : Adil	 (since 2014-11-14)	 reputation=4	 upvotes=4	 views=7	 website=http://adil.az]
+
+Bahamas	Total Users :1
+[
+			User : Emmanuel	 (since 2016-06-23)	 reputation=0	 upvotes=0	 views=0	 website=http://zapphtml.com]
+
+Bahrain	Total Users :32
+[
+			User : Marwan	 (since 2012-10-04)	 reputation=309	 upvotes=309	 views=28	 website=https://marwano.com/, 
+			User : evilReiko	 (since 2012-10-18)	 reputation=180	 upvotes=180	 views=15	 website=NA, 
+			User : Faisal	 (since 2013-05-03)	 reputation=25	 upvotes=25	 views=300	 website=NA, 
+			User : el7r	 (since 2012-02-09)	 reputation=13	 upvotes=13	 views=4	 website=http://en.the-ghost.com, 
+			User : Ayman	 (since 2012-07-16)	 reputation=11	 upvotes=11	 views=2	 website=http://saveabend.blogspot.com]
+
+Bangladesh	Total Users :567
+[
+			User : pyprism	 (since 2013-11-22)	 reputation=214	 upvotes=214	 views=29	 website=https://github.com/pyprism, 
+			User : partho	 (since 2015-04-02)	 reputation=203	 upvotes=203	 views=74	 website=NA, 
+			User : opu	 (since 2013-08-13)	 reputation=198	 upvotes=198	 views=405	 website=NA, 
+			User : Mahmudul	 (since 2016-11-20)	 reputation=110	 upvotes=110	 views=32	 website=http://shohag.imaginativeworld.org, 
+			User : Mukit	 (since 2015-10-18)	 reputation=79	 upvotes=79	 views=10	 website=NA]
+
+Barbados	Total Users :8
+[
+			User : RolandiXor	 (since 2010-09-04)	 reputation=9020	 upvotes=9020	 views=10239	 website=https://rolandixor.pro, 
+			User : Ray	 (since 2013-01-05)	 reputation=2	 upvotes=2	 views=0	 website=NA, 
+			User : Gnatel	 (since 2020-01-03)	 reputation=0	 upvotes=0	 views=0	 website=https://www.caribbeanjobsonline.com/, 
+			User : Brett	 (since 2018-01-16)	 reputation=0	 upvotes=0	 views=0	 website=https://www.totallybarbados.com/, 
+			User : Dinari	 (since 2014-09-17)	 reputation=0	 upvotes=0	 views=8	 website=NA]
+
+Belarus	Total Users :188
+[
+			User : naXa	 (since 2016-03-17)	 reputation=402	 upvotes=402	 views=179	 website=https://about.me/naxa, 
+			User : Vitaly	 (since 2013-03-05)	 reputation=161	 upvotes=161	 views=368	 website=http://about.me/zdanevich, 
+			User : Virtuoz	 (since 2016-03-24)	 reputation=63	 upvotes=63	 views=0	 website=NA, 
+			User : Vadim	 (since 2014-06-24)	 reputation=48	 upvotes=48	 views=10	 website=http://datapipesoft.com/, 
+			User : puchu	 (since 2012-07-08)	 reputation=37	 upvotes=37	 views=45	 website=NA]
+
+Belgium	Total Users :973
+[
+			User : N.	 (since 2017-03-23)	 reputation=423	 upvotes=423	 views=31	 website=NA, 
+			User : icc97	 (since 2011-01-16)	 reputation=387	 upvotes=387	 views=228	 website=http://ianchanning.wordpress.com, 
+			User : Benoit	 (since 2014-03-13)	 reputation=322	 upvotes=322	 views=668	 website=http://www.youritgoeslinux.com, 
+			User : Peter	 (since 2014-03-15)	 reputation=291	 upvotes=291	 views=254	 website=NA, 
+			User : MrVaykadji	 (since 2013-07-20)	 reputation=280	 upvotes=280	 views=1207	 website=NA]
+
+Belize	Total Users :2
+[
+			User : Amircito	 (since 2016-09-28)	 reputation=0	 upvotes=0	 views=0	 website=http://www.501networks.com, 
+			User : Rasiel	 (since 2010-10-12)	 reputation=0	 upvotes=0	 views=1	 website=http://www.red4.bz]
+
+Benin	Total Users :7
+[
+			User : Xođonou	 (since 2013-11-11)	 reputation=0	 upvotes=0	 views=3	 website=http://sounton.me, 
+			User : Wryhder	 (since 2016-08-08)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Emeasoba	 (since 2018-05-08)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Fabrice	 (since 2018-07-19)	 reputation=0	 upvotes=0	 views=4	 website=https://fab2dev.com, 
+			User : 5testifier	 (since 2017-07-08)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Bhutan	Total Users :3
+[
+			User : Tek	 (since 2017-08-16)	 reputation=7	 upvotes=7	 views=12	 website=NA, 
+			User : jampel	 (since 2014-03-17)	 reputation=0	 upvotes=0	 views=16	 website=NA, 
+			User : Misty	 (since 2018-01-22)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Bolivia	Total Users :31
+[
+			User : 88mary256	 (since 2015-03-10)	 reputation=7	 upvotes=7	 views=1	 website=NA, 
+			User : Roberto	 (since 2012-11-01)	 reputation=3	 upvotes=3	 views=10	 website=NA, 
+			User : Hugo	 (since 2015-11-08)	 reputation=2	 upvotes=2	 views=0	 website=NA, 
+			User : johanpw	 (since 2014-12-17)	 reputation=2	 upvotes=2	 views=1	 website=http://www.dospuntos.no, 
+			User : ggarron	 (since 2013-01-11)	 reputation=1	 upvotes=1	 views=3	 website=http://www.garron.me]
+
+Botswana	Total Users :4
+[
+			User : Charm_quark	 (since 2013-04-18)	 reputation=3	 upvotes=3	 views=4	 website=NA, 
+			User : Daniel	 (since 2016-04-13)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Letsdev	 (since 2016-08-01)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : Nqabeni	 (since 2016-05-30)	 reputation=0	 upvotes=0	 views=0	 website=http://www.linkedin.com/pub/noel-simela/6/53b/44b/]
+
+Brazil	Total Users :1843
+[
+			User : artu-hnrq	 (since 2017-05-16)	 reputation=1068	 upvotes=1068	 views=125	 website=https://linkedin.com/in/artu-hnrq, 
+			User : Paulo	 (since 2010-12-28)	 reputation=916	 upvotes=916	 views=188	 website=http://www.adimira.com, 
+			User : That	 (since 2012-11-23)	 reputation=811	 upvotes=811	 views=1020	 website=NA, 
+			User : MestreLion	 (since 2011-02-17)	 reputation=754	 upvotes=754	 views=1165	 website=https://github.com/MestreLion, 
+			User : ThiagoPonte	 (since 2012-09-03)	 reputation=312	 upvotes=312	 views=238	 website=http://thiagoponte.wordpress.com/]
+
+Brunei	Total Users :5
+[
+			User : Piers	 (since 2015-12-17)	 reputation=1	 upvotes=1	 views=1	 website=NA, 
+			User : Nadzirun	 (since 2016-11-03)	 reputation=0	 upvotes=0	 views=5	 website=http://www.achieverselearning.com, 
+			User : amenji	 (since 2016-01-15)	 reputation=0	 upvotes=0	 views=7	 website=NA, 
+			User : Moszerbuntu	 (since 2014-06-29)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : thewheat	 (since 2011-04-25)	 reputation=0	 upvotes=0	 views=4	 website=http://thewheatfield.org]
+
+Bulgaria	Total Users :322
+[
+			User : pa4080	 (since 2016-07-09)	 reputation=5531	 upvotes=5531	 views=3627	 website=NA, 
+			User : sashoalm	 (since 2011-02-05)	 reputation=280	 upvotes=280	 views=303	 website=https://github.com/sashoalm/qt-ftp-server, 
+			User : Alexander	 (since 2013-08-16)	 reputation=148	 upvotes=148	 views=8	 website=http://alexvpopov.github.io/, 
+			User : Nikolay	 (since 2015-11-10)	 reputation=130	 upvotes=130	 views=1185	 website=https://root.bg/, 
+			User : akostadinov	 (since 2012-09-13)	 reputation=127	 upvotes=127	 views=69	 website=http://rboci.blogspot.com/]
+
+Burkina	Total Users :2
+[
+			User : Sos	 (since 2013-04-10)	 reputation=56	 upvotes=56	 views=39	 website=NA, 
+			User : Bozi	 (since 2019-06-17)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Burundi	Total Users :2
+[
+			User : Illidanek	 (since 2014-05-15)	 reputation=21	 upvotes=21	 views=53	 website=https://dropbit.me/@illidanek, 
+			User : jeanlion21	 (since 2019-09-23)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Cambodia	Total Users :43
+[
+			User : Arnaud	 (since 2017-02-15)	 reputation=25	 upvotes=25	 views=0	 website=https://marguer.at, 
+			User : tepkenvannkorn	 (since 2013-01-09)	 reputation=17	 upvotes=17	 views=2	 website=http://www.vannkorn.info, 
+			User : sovannarith	 (since 2019-10-16)	 reputation=14	 upvotes=14	 views=5	 website=https://sovannarith.info/, 
+			User : c.sokun	 (since 2010-09-09)	 reputation=10	 upvotes=10	 views=17	 website=http://chornsokun.wordpress.com, 
+			User : raksa	 (since 2014-01-07)	 reputation=10	 upvotes=10	 views=5	 website=http://k4us.net]
+
+Cameroon	Total Users :30
+[
+			User : Nwawel	 (since 2016-03-28)	 reputation=27	 upvotes=27	 views=42	 website=NA, 
+			User : endur	 (since 2016-04-28)	 reputation=11	 upvotes=11	 views=0	 website=NA, 
+			User : Fenn-CS	 (since 2016-12-07)	 reputation=11	 upvotes=11	 views=9	 website=https://stacknerds.com/author/fenn-cs/, 
+			User : Will	 (since 2016-04-07)	 reputation=2	 upvotes=2	 views=2	 website=NA, 
+			User : gnsr	 (since 2015-03-24)	 reputation=2	 upvotes=2	 views=17	 website=http://www.ibiz.cm]
+
+Canada	Total Users :1656
+[
+			User : ImaginaryRobots	 (since 2010-08-04)	 reputation=1651	 upvotes=1651	 views=1020	 website=http://www.imaginaryrobots.net, 
+			User : Xen2050	 (since 2013-02-07)	 reputation=1543	 upvotes=1543	 views=1231	 website=NA, 
+			User : anonymous2	 (since 2016-04-06)	 reputation=1253	 upvotes=1253	 views=1680	 website=NA, 
+			User : Philip	 (since 2013-02-27)	 reputation=1202	 upvotes=1202	 views=215	 website=https://amazon.com/author/kirkbride, 
+			User : txwikinger	 (since 2010-07-28)	 reputation=980	 upvotes=980	 views=2031	 website=http://drupal.txwikinger.me.uk]
+
+Chile	Total Users :209
+[
+			User : Philippe	 (since 2012-11-14)	 reputation=319	 upvotes=319	 views=685	 website=NA, 
+			User : Searock	 (since 2010-09-01)	 reputation=206	 upvotes=206	 views=107	 website=https://searock.net, 
+			User : Luchostein	 (since 2014-11-07)	 reputation=162	 upvotes=162	 views=13	 website=https://about.me/luchostein, 
+			User : El	 (since 2018-12-27)	 reputation=109	 upvotes=109	 views=79	 website=NA, 
+			User : nikoskip	 (since 2014-12-16)	 reputation=67	 upvotes=67	 views=4	 website=http://fuubar.wordpress.com]
+
+China	Total Users :977
+[
+			User : Searene	 (since 2012-02-14)	 reputation=552	 upvotes=552	 views=119	 website=https://searene.github.io, 
+			User : Ren	 (since 2015-11-18)	 reputation=220	 upvotes=220	 views=50	 website=https://www.TechForGeek.info, 
+			User : Mygod	 (since 2015-04-05)	 reputation=216	 upvotes=216	 views=58	 website=https://mygod.be, 
+			User : Meteor	 (since 2010-11-29)	 reputation=212	 upvotes=212	 views=49	 website=http://blog.meteormatt.net, 
+			User : Kun	 (since 2016-01-03)	 reputation=198	 upvotes=198	 views=2	 website=https://renkun.me]
+
+Colombia	Total Users :271
+[
+			User : Francisco	 (since 2013-06-16)	 reputation=208	 upvotes=208	 views=23	 website=http://otroespacioblog.wordpress.com, 
+			User : damodaranudas	 (since 2014-07-28)	 reputation=129	 upvotes=129	 views=43	 website=http://www.implicitpay.com, 
+			User : Alfabravo	 (since 2013-01-31)	 reputation=96	 upvotes=96	 views=7	 website=https://alfabravoteam.blogspot.com, 
+			User : GTRONICK	 (since 2014-05-17)	 reputation=79	 upvotes=79	 views=362	 website=http://www.gtronick.com, 
+			User : Jose	 (since 2015-10-29)	 reputation=66	 upvotes=66	 views=33	 website=NA]
+
+Congo	Total Users :3
+[
+			User : Revolucion	 (since 2015-08-21)	 reputation=37	 upvotes=37	 views=896	 website=http://carlagoeshacking.wordpress.com, 
+			User : Outis47	 (since 2019-06-09)	 reputation=0	 upvotes=0	 views=0	 website=http://smirl.org, 
+			User : Ntwali	 (since 2018-08-07)	 reputation=0	 upvotes=0	 views=1	 website=NA]
+
+Croatia	Total Users :187
+[
+			User : enedene	 (since 2011-06-12)	 reputation=233	 upvotes=233	 views=313	 website=NA, 
+			User : boroboris	 (since 2016-11-10)	 reputation=129	 upvotes=129	 views=1	 website=NA, 
+			User : mpapec	 (since 2015-06-23)	 reputation=57	 upvotes=57	 views=4	 website=NA, 
+			User : prkos	 (since 2014-01-10)	 reputation=57	 upvotes=57	 views=3	 website=https://prkos.hr, 
+			User : Boy	 (since 2017-10-05)	 reputation=54	 upvotes=54	 views=0	 website=NA]
+
+Cuba	Total Users :54
+[
+			User : Daniel	 (since 2017-09-16)	 reputation=99	 upvotes=99	 views=16	 website=NA, 
+			User : diosney	 (since 2011-11-08)	 reputation=93	 upvotes=93	 views=32	 website=http://about.me/diosney, 
+			User : efirvida	 (since 2015-10-01)	 reputation=45	 upvotes=45	 views=2	 website=NA, 
+			User : Montells	 (since 2014-02-05)	 reputation=38	 upvotes=38	 views=4	 website=NA, 
+			User : lestcape	 (since 2014-11-26)	 reputation=25	 upvotes=25	 views=265	 website=https://gitlab.com/lestcape]
+
+Cyprus	Total Users :79
+[
+			User : Vassilis	 (since 2010-10-13)	 reputation=579	 upvotes=579	 views=326	 website=http://www.cartography.gr, 
+			User : hb20007	 (since 2017-04-13)	 reputation=133	 upvotes=133	 views=0	 website=https://trulykryptic.com, 
+			User : sosytee	 (since 2013-07-19)	 reputation=97	 upvotes=97	 views=258	 website=http://sosytee.wordpress.com/, 
+			User : Minas	 (since 2012-09-26)	 reputation=63	 upvotes=63	 views=55	 website=https://codedogg.wordpress.com/, 
+			User : zinon	 (since 2015-03-31)	 reputation=31	 upvotes=31	 views=4	 website=NA]
+
+Denmark	Total Users :702
+[
+			User : Mysterio	 (since 2011-03-23)	 reputation=670	 upvotes=670	 views=1464	 website=https://medium.com/python-data, 
+			User : Thor	 (since 2012-06-15)	 reputation=291	 upvotes=291	 views=228	 website=NA, 
+			User : Sebastian	 (since 2011-01-24)	 reputation=150	 upvotes=150	 views=50	 website=http://mathemaniac.org, 
+			User : LassePoulsen	 (since 2010-08-04)	 reputation=148	 upvotes=148	 views=1063	 website=NA, 
+			User : ignacio	 (since 2019-08-27)	 reputation=124	 upvotes=124	 views=1	 website=NA]
+
+Djibouti	Total Users :2
+[
+			User : Ai7ch	 (since 2015-12-28)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : ai7ch	 (since 2018-05-12)	 reputation=0	 upvotes=0	 views=1	 website=NA]
+
+Dominica	Total Users :62
+[
+			User : Braiam	 (since 2013-06-24)	 reputation=3307	 upvotes=3307	 views=23618	 website=NA, 
+			User : edwin	 (since 2013-05-17)	 reputation=236	 upvotes=236	 views=1246	 website=NA, 
+			User : Luigi	 (since 2013-05-24)	 reputation=111	 upvotes=111	 views=22	 website=http://n/a, 
+			User : Rubens	 (since 2011-08-31)	 reputation=89	 upvotes=89	 views=127	 website=NA, 
+			User : alejandrob	 (since 2015-09-11)	 reputation=21	 upvotes=21	 views=4	 website=http://www.caudatasolutions.com]
+
+Ecuador	Total Users :71
+[
+			User : juliocesar	 (since 2013-10-11)	 reputation=220	 upvotes=220	 views=6	 website=http://uyeya.blogspot.com/, 
+			User : Indacochea	 (since 2013-03-31)	 reputation=86	 upvotes=86	 views=217	 website=http://facilitarelsoftwarelibre.blogspot.com/, 
+			User : Joshua	 (since 2016-11-04)	 reputation=59	 upvotes=59	 views=123	 website=NA, 
+			User : christianbueno.1	 (since 2014-03-18)	 reputation=56	 upvotes=56	 views=132	 website=NA, 
+			User : lmiguelvargasf	 (since 2015-03-31)	 reputation=55	 upvotes=55	 views=63	 website=NA]
+
+Egypt	Total Users :798
+[
+			User : AbdelHady	 (since 2014-07-07)	 reputation=210	 upvotes=210	 views=17	 website=https://abdelhady.net/, 
+			User : Ahmed	 (since 2015-12-02)	 reputation=122	 upvotes=122	 views=9	 website=https://www.linkedin.com/in/ahmed-al-bermawy/, 
+			User : Muhammad	 (since 2012-07-30)	 reputation=109	 upvotes=109	 views=495	 website=http://mgelbana.blogspot.com, 
+			User : ahmed	 (since 2013-11-11)	 reputation=84	 upvotes=84	 views=81	 website=NA, 
+			User : Hazem	 (since 2013-12-15)	 reputation=79	 upvotes=79	 views=15	 website=http://hazemhagrass.com]
+
+Eritrea	Total Users :1
+[
+			User : Saleh	 (since 2013-04-14)	 reputation=5	 upvotes=5	 views=4	 website=http://saleh360.blogspot.com/]
+
+Estonia	Total Users :156
+[
+			User : lkraav	 (since 2013-08-28)	 reputation=146	 upvotes=146	 views=2	 website=https://conversionready.com, 
+			User : Roland	 (since 2015-04-06)	 reputation=133	 upvotes=133	 views=0	 website=http://roland.pri.ee/, 
+			User : Martin	 (since 2013-04-18)	 reputation=124	 upvotes=124	 views=2	 website=http://github.com/valgur, 
+			User : Carolus	 (since 2014-07-19)	 reputation=109	 upvotes=109	 views=141	 website=NA, 
+			User : solfish	 (since 2017-07-21)	 reputation=94	 upvotes=94	 views=80	 website=NA]
+
+Ethiopia	Total Users :50
+[
+			User : Achu	 (since 2011-01-27)	 reputation=294	 upvotes=294	 views=1595	 website=NA, 
+			User : Amanuel	 (since 2014-06-03)	 reputation=107	 upvotes=107	 views=5	 website=http://amanuel.site40.net, 
+			User : Merhawi	 (since 2015-11-10)	 reputation=20	 upvotes=20	 views=0	 website=NA, 
+			User : xabush	 (since 2015-03-23)	 reputation=13	 upvotes=13	 views=9	 website=NA, 
+			User : Miheretab	 (since 2014-11-28)	 reputation=9	 upvotes=9	 views=2	 website=http://www.upwork.com/freelancers/~01b24b09765116ee59]
+
+Fiji	Total Users :6
+[
+			User : kRiZ	 (since 2016-03-30)	 reputation=6	 upvotes=6	 views=0	 website=NA, 
+			User : BlackHatShadow	 (since 2013-01-24)	 reputation=6	 upvotes=6	 views=2	 website=http://www.thepiratebay.se, 
+			User : bucabay	 (since 2014-11-23)	 reputation=1	 upvotes=1	 views=1	 website=http://bucabay.com/, 
+			User : Astrolink	 (since 2018-10-25)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Tiki	 (since 2019-02-17)	 reputation=0	 upvotes=0	 views=1	 website=NA]
+
+Finland	Total Users :474
+[
+			User : SurvivalMachine	 (since 2017-10-21)	 reputation=1014	 upvotes=1014	 views=962	 website=http://twiren.kapsi.fi, 
+			User : jarno	 (since 2011-07-02)	 reputation=234	 upvotes=234	 views=755	 website=https://launchpad.net/~jarnos, 
+			User : Limon	 (since 2015-03-20)	 reputation=233	 upvotes=233	 views=27	 website=https://limonte.github.io, 
+			User : pileofrocks	 (since 2012-06-29)	 reputation=190	 upvotes=190	 views=144	 website=NA, 
+			User : XTL	 (since 2012-08-08)	 reputation=135	 upvotes=135	 views=17	 website=http://iki.fi/xtl]
+
+France	Total Users :2220
+[
+			User : Sylvain	 (since 2011-11-04)	 reputation=2187	 upvotes=2187	 views=5655	 website=https://launchpad.net/~sylvain-pineau, 
+			User : tatsu	 (since 2014-07-19)	 reputation=708	 upvotes=708	 views=1437	 website=https://quaislaurentiens.com, 
+			User : A.L	 (since 2013-12-28)	 reputation=629	 upvotes=629	 views=62	 website=https://alexislefebvre.com/, 
+			User : Rémi	 (since 2014-08-06)	 reputation=275	 upvotes=275	 views=47	 website=https://twitter.com/rbecheras, 
+			User : alci	 (since 2010-09-17)	 reputation=254	 upvotes=254	 views=359	 website=http://www.outredim.fr]
+
+Gambia	Total Users :3
+[
+			User : JoeGomez	 (since 2020-07-29)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : ojammeh	 (since 2020-01-29)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Muhammed	 (since 2019-09-29)	 reputation=0	 upvotes=0	 views=0	 website=https://kanyi.gm]
+
+Georgia	Total Users :146
+[
+			User : James	 (since 2012-01-25)	 reputation=685	 upvotes=685	 views=363	 website=NA, 
+			User : rm-vanda	 (since 2012-04-07)	 reputation=384	 upvotes=384	 views=147	 website=NA, 
+			User : Zviad	 (since 2015-06-16)	 reputation=160	 upvotes=160	 views=152	 website=http://localhost, 
+			User : Levan	 (since 2012-01-18)	 reputation=127	 upvotes=127	 views=588	 website=NA, 
+			User : LONGMAN	 (since 2015-02-16)	 reputation=84	 upvotes=84	 views=12	 website=https://longman.me]
+
+Germany	Total Users :4126
+[
+			User : Takkat	 (since 2010-10-14)	 reputation=7200	 upvotes=7200	 views=12437	 website=https://launchpad.net/~takkat-nebuk, 
+			User : Byte	 (since 2015-01-12)	 reputation=6817	 upvotes=6817	 views=16376	 website=https://ubuntuhideout.com/, 
+			User : Glutanimate	 (since 2012-08-05)	 reputation=4937	 upvotes=4937	 views=5986	 website=http://glutanimate.com, 
+			User : A.B.	 (since 2015-01-09)	 reputation=4187	 upvotes=4187	 views=9285	 website=NA, 
+			User : dessert	 (since 2016-02-15)	 reputation=2549	 upvotes=2549	 views=4725	 website=http://www.this-page-intentionally-left-blank.org]
+
+Ghana	Total Users :68
+[
+			User : saviour123	 (since 2014-08-01)	 reputation=32	 upvotes=32	 views=218	 website=https://saviourgidi.appspot.com, 
+			User : Wim	 (since 2015-08-25)	 reputation=17	 upvotes=17	 views=0	 website=http://zegmaarwim.blogspot.com, 
+			User : FRANCISCO	 (since 2018-12-12)	 reputation=17	 upvotes=17	 views=2	 website=NA, 
+			User : nyedidikeke	 (since 2018-05-22)	 reputation=11	 upvotes=11	 views=1	 website=NA, 
+			User : ultrasamad	 (since 2020-06-12)	 reputation=2	 upvotes=2	 views=0	 website=https://ultrasamad.com]
+
+Greece	Total Users :492
+[
+			User : George	 (since 2014-03-04)	 reputation=294	 upvotes=294	 views=36	 website=NA, 
+			User : Stef	 (since 2011-03-11)	 reputation=289	 upvotes=289	 views=588	 website=https://stefk.me/, 
+			User : NlightNFotis	 (since 2012-07-02)	 reputation=278	 upvotes=278	 views=442	 website=http://www.fotiskoutoulakis.com, 
+			User : GeoMint	 (since 2013-12-23)	 reputation=256	 upvotes=256	 views=128	 website=NA, 
+			User : Nikos	 (since 2013-05-31)	 reputation=184	 upvotes=184	 views=95	 website=https://twinslab.com]
+
+Grenada	Total Users :1
+[
+			User : Bevon	 (since 2018-07-05)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Guatemala	Total Users :116
+[
+			User : DarkCygnus	 (since 2017-02-23)	 reputation=156	 upvotes=156	 views=6	 website=NA, 
+			User : jherax	 (since 2015-09-03)	 reputation=74	 upvotes=74	 views=11	 website=https://jherax.wordpress.com/, 
+			User : Pietro	 (since 2019-09-13)	 reputation=30	 upvotes=30	 views=0	 website=NA, 
+			User : Diego	 (since 2015-05-18)	 reputation=23	 upvotes=23	 views=4	 website=NA, 
+			User : georgeos	 (since 2018-09-13)	 reputation=17	 upvotes=17	 views=0	 website=NA]
+
+Guinea	Total Users :1
+[
+			User : djak	 (since 2013-11-03)	 reputation=0	 upvotes=0	 views=16	 website=NA]
+
+Guyana	Total Users :1
+[
+			User : umbrellatechgy	 (since 2016-07-21)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Haiti	Total Users :6
+[
+			User : Nick	 (since 2011-12-26)	 reputation=3	 upvotes=3	 views=14	 website=http://rameau.me, 
+			User : REGIS	 (since 2015-04-10)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : edlyn	 (since 2016-10-14)	 reputation=0	 upvotes=0	 views=1	 website=https://edlynexavier, 
+			User : efleurine	 (since 2015-02-02)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : raphsabb	 (since 2010-09-09)	 reputation=0	 upvotes=0	 views=2	 website=http://raphsabb.com]
+
+Honduras	Total Users :20
+[
+			User : luis	 (since 2018-02-04)	 reputation=14	 upvotes=14	 views=16	 website=NA, 
+			User : Haguilar91	 (since 2011-02-12)	 reputation=2	 upvotes=2	 views=133	 website=http://twitter.com/haguilar91, 
+			User : JoxieMedina	 (since 2018-12-24)	 reputation=1	 upvotes=1	 views=0	 website=http://creadoresti.com, 
+			User : Vic	 (since 2016-06-23)	 reputation=1	 upvotes=1	 views=0	 website=NA, 
+			User : Cristian	 (since 2018-04-02)	 reputation=0	 upvotes=0	 views=0	 website=https://www.prograpedia.com/]
+
+Hungary	Total Users :381
+[
+			User : totymedli	 (since 2014-09-05)	 reputation=1312	 upvotes=1312	 views=59	 website=http://www.keresztech.org, 
+			User : Bálint	 (since 2015-04-26)	 reputation=918	 upvotes=918	 views=37	 website=NA, 
+			User : C1sc0	 (since 2013-06-09)	 reputation=412	 upvotes=412	 views=26	 website=http://pingofdeath.info, 
+			User : inf3rno	 (since 2015-08-04)	 reputation=184	 upvotes=184	 views=57	 website=http://inf3rno-blog.blogspot.hu/, 
+			User : Bill	 (since 2012-05-15)	 reputation=181	 upvotes=181	 views=69	 website=http://stackoverflow.com/users/26449/bill]
+
+Iceland	Total Users :65
+[
+			User : Loknar	 (since 2014-11-14)	 reputation=138	 upvotes=138	 views=25	 website=NA, 
+			User : Atli	 (since 2012-02-03)	 reputation=46	 upvotes=46	 views=6	 website=http://atli.advefir.com, 
+			User : Krieger	 (since 2016-11-13)	 reputation=31	 upvotes=31	 views=74	 website=http://steamcommunity.com/profiles/76561198148638697/, 
+			User : MiniGod	 (since 2012-12-29)	 reputation=27	 upvotes=27	 views=18	 website=http://kbl.is, 
+			User : Eyeslandic	 (since 2011-05-03)	 reputation=24	 upvotes=24	 views=20	 website=https://arni1981.github.io/]
+
+India	Total Users :7212
+[
+			User : rɑːdʒɑ	 (since 2011-11-14)	 reputation=3620	 upvotes=3620	 views=9636	 website=http://thelinuxmen.blogspot.com/, 
+			User : Aditya	 (since 2012-12-15)	 reputation=2992	 upvotes=2992	 views=2995	 website=http://stackexchange.com/users/2149174/aditya, 
+			User : jobin	 (since 2012-06-22)	 reputation=2550	 upvotes=2550	 views=3354	 website=http://thelittleican.blogspot.in/, 
+			User : Tachyons	 (since 2011-12-26)	 reputation=1735	 upvotes=1735	 views=3539	 website=http://aboobacker.in, 
+			User : karthick87	 (since 2010-11-06)	 reputation=1242	 upvotes=1242	 views=5474	 website=NA]
+
+Indonesia	Total Users :864
+[
+			User : chrone	 (since 2013-06-29)	 reputation=531	 upvotes=531	 views=109	 website=https://www.linkedin.com/in/charlesalva/, 
+			User : Nur	 (since 2013-01-15)	 reputation=171	 upvotes=171	 views=362	 website=NA, 
+			User : gagantous	 (since 2017-08-13)	 reputation=144	 upvotes=144	 views=98	 website=NA, 
+			User : Giraldi	 (since 2013-03-23)	 reputation=127	 upvotes=127	 views=13	 website=http://dmaggio.carbonmade.com/, 
+			User : Hendy	 (since 2011-03-01)	 reputation=124	 upvotes=124	 views=47	 website=http://www.HendyIrawan.com/]
+
+Iran	Total Users :1085
+[
+			User : Mohammad	 (since 2017-11-08)	 reputation=451	 upvotes=451	 views=122	 website=NA, 
+			User : Rahmani	 (since 2014-01-22)	 reputation=439	 upvotes=439	 views=72	 website=http://rahmanism.ir, 
+			User : pylover	 (since 2011-11-10)	 reputation=424	 upvotes=424	 views=336	 website=http://pylover.dobisel.com, 
+			User : shgnInc	 (since 2011-09-15)	 reputation=307	 upvotes=307	 views=564	 website=http://shgn.ir, 
+			User : FazeL	 (since 2015-09-05)	 reputation=298	 upvotes=298	 views=12	 website=NA]
+
+Iraq	Total Users :50
+[
+			User : blueMix	 (since 2013-11-25)	 reputation=150	 upvotes=150	 views=11	 website=https://bluemix.github.io/, 
+			User : aderchox	 (since 2018-10-17)	 reputation=140	 upvotes=140	 views=33	 website=NA, 
+			User : Ali	 (since 2018-10-01)	 reputation=16	 upvotes=16	 views=1	 website=NA, 
+			User : Muhammad	 (since 2016-07-21)	 reputation=4	 upvotes=4	 views=6	 website=http://www.iraqdevelopers.com, 
+			User : Deactivated	 (since 2015-09-25)	 reputation=3	 upvotes=3	 views=4	 website=NA]
+
+Israel	Total Users :1202
+[
+			User : Yaron	 (since 2016-05-15)	 reputation=911	 upvotes=911	 views=1787	 website=NA, 
+			User : Eliran	 (since 2012-08-29)	 reputation=410	 upvotes=410	 views=214	 website=NA, 
+			User : AlikElzin-kilaka	 (since 2011-03-31)	 reputation=369	 upvotes=369	 views=612	 website=NA, 
+			User : F.Rahamim	 (since 2016-08-09)	 reputation=349	 upvotes=349	 views=80	 website=http://www.omegaton.com, 
+			User : thebeancounter	 (since 2016-07-17)	 reputation=302	 upvotes=302	 views=64	 website=NA]
+
+Italy	Total Users :1147
+[
+			User : Avio	 (since 2012-05-15)	 reputation=2172	 upvotes=2172	 views=287	 website=NA, 
+			User : Joril	 (since 2010-12-30)	 reputation=632	 upvotes=632	 views=105	 website=NA, 
+			User : Riccardo	 (since 2013-05-16)	 reputation=423	 upvotes=423	 views=420	 website=https://ideasnet.wordpress.com, 
+			User : Luca	 (since 2011-09-17)	 reputation=281	 upvotes=281	 views=41	 website=http://thebugfreeblog.blogspot.it/, 
+			User : Maxx	 (since 2012-08-28)	 reputation=266	 upvotes=266	 views=11	 website=http://massimomusante.blogspot.com]
+
+Jamaica	Total Users :37
+[
+			User : Javid	 (since 2014-04-05)	 reputation=22	 upvotes=22	 views=0	 website=https://www.eventsrealm.com, 
+			User : Julian	 (since 2013-06-12)	 reputation=13	 upvotes=13	 views=0	 website=http://bit.ly/jjupwork, 
+			User : dwaynekdclarke	 (since 2013-07-27)	 reputation=8	 upvotes=8	 views=243	 website=http://instagram.com/dwaynekdclarke876, 
+			User : Markel	 (since 2013-08-31)	 reputation=3	 upvotes=3	 views=0	 website=NA, 
+			User : Keno	 (since 2018-05-03)	 reputation=2	 upvotes=2	 views=0	 website=https://claytoninnovations.com]
+
+Japan	Total Users :275
+[
+			User : muru	 (since 2013-05-13)	 reputation=5243	 upvotes=5243	 views=35139	 website=https://muru.dev, 
+			User : fx-kirin	 (since 2015-02-17)	 reputation=143	 upvotes=143	 views=82	 website=http://fx-kirin.com, 
+			User : Gino	 (since 2017-08-21)	 reputation=109	 upvotes=109	 views=20	 website=https://www.ginomempin.com/, 
+			User : monkut	 (since 2011-12-12)	 reputation=94	 upvotes=94	 views=55	 website=http://monkut.webfactional.com/, 
+			User : Akihiro	 (since 2013-05-08)	 reputation=85	 upvotes=85	 views=33	 website=NA]
+
+Jordan	Total Users :88
+[
+			User : Samir	 (since 2012-01-01)	 reputation=44	 upvotes=44	 views=86	 website=https://dcaclab.com, 
+			User : mohammedgqudah	 (since 2018-01-04)	 reputation=37	 upvotes=37	 views=6	 website=NA, 
+			User : Belal	 (since 2015-11-12)	 reputation=32	 upvotes=32	 views=1	 website=NA, 
+			User : Basheer	 (since 2016-12-13)	 reputation=23	 upvotes=23	 views=4	 website=NA, 
+			User : Ya	 (since 2012-06-04)	 reputation=20	 upvotes=20	 views=16	 website=http://www.ayyash.info]
+
+Kazakhstan	Total Users :58
+[
+			User : c0rp	 (since 2013-06-03)	 reputation=504	 upvotes=504	 views=504	 website=NA, 
+			User : Vladimir	 (since 2017-12-30)	 reputation=84	 upvotes=84	 views=1	 website=http://Zhelezyaka.kz, 
+			User : Cookie	 (since 2019-07-29)	 reputation=11	 upvotes=11	 views=3	 website=NA, 
+			User : DraggonZ	 (since 2015-12-02)	 reputation=9	 upvotes=9	 views=0	 website=http://dragggonz.blogspot.com/, 
+			User : antonu17	 (since 2015-11-28)	 reputation=8	 upvotes=8	 views=2	 website=NA]
+
+Kenya	Total Users :165
+[
+			User : griffins	 (since 2019-10-03)	 reputation=40	 upvotes=40	 views=0	 website=https://ggriffo-dev.web.app/#/, 
+			User : Erick	 (since 2012-11-23)	 reputation=23	 upvotes=23	 views=15	 website=http://eomwandho.wordpress.com, 
+			User : Muriuki	 (since 2012-04-09)	 reputation=21	 upvotes=21	 views=35	 website=http://karibe.co, 
+			User : bademba	 (since 2016-05-31)	 reputation=13	 upvotes=13	 views=122	 website=NA, 
+			User : chapskev	 (since 2014-02-23)	 reputation=12	 upvotes=12	 views=0	 website=http://mbavin.com]
+
+Kosovo	Total Users :14
+[
+			User : Rick	 (since 2016-10-10)	 reputation=14	 upvotes=14	 views=36	 website=NA, 
+			User : virusivv	 (since 2015-02-12)	 reputation=11	 upvotes=11	 views=3	 website=NA, 
+			User : Armend	 (since 2020-08-17)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Gent	 (since 2020-01-28)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Five0	 (since 2020-02-16)	 reputation=0	 upvotes=0	 views=1	 website=NA]
+
+Kuwait	Total Users :47
+[
+			User : Ahmed	 (since 2013-05-28)	 reputation=33	 upvotes=33	 views=175	 website=http://www.kw.gs/, 
+			User : Bashar	 (since 2013-10-13)	 reputation=23	 upvotes=23	 views=95	 website=http://Bashar.com, 
+			User : Muhannad	 (since 2013-12-12)	 reputation=15	 upvotes=15	 views=1	 website=http://www.muhannadalhariri.com, 
+			User : Milind	 (since 2015-04-20)	 reputation=13	 upvotes=13	 views=11	 website=https://www.linkedin.com/in/milind-saraswala-b342aa16/, 
+			User : Shobi	 (since 2017-09-21)	 reputation=10	 upvotes=10	 views=35	 website=https://shobi.in]
+
+Kyrgyzstan	Total Users :19
+[
+			User : Vladimir	 (since 2016-09-06)	 reputation=95	 upvotes=95	 views=117	 website=http://v0ff.blogspot.com, 
+			User : Loom	 (since 2013-11-04)	 reputation=42	 upvotes=42	 views=89	 website=NA, 
+			User : Erlan	 (since 2016-11-23)	 reputation=25	 upvotes=25	 views=17	 website=NA, 
+			User : kishie	 (since 2012-02-04)	 reputation=23	 upvotes=23	 views=2	 website=NA, 
+			User : Islam	 (since 2018-06-29)	 reputation=16	 upvotes=16	 views=2	 website=NA]
+
+Laos	Total Users :8
+[
+			User : Daniel	 (since 2013-10-15)	 reputation=2	 upvotes=2	 views=4	 website=NA, 
+			User : nokieng	 (since 2017-07-10)	 reputation=1	 upvotes=1	 views=0	 website=https://www.facebook.com/kieng.king, 
+			User : ubuntu	 (since 2013-12-30)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : aong	 (since 2016-12-17)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Voutphavang	 (since 2016-12-16)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Latvia	Total Users :128
+[
+			User : Maris	 (since 2015-04-13)	 reputation=269	 upvotes=269	 views=29	 website=http://ma.wishmesh.com, 
+			User : Justas	 (since 2011-06-28)	 reputation=67	 upvotes=67	 views=84	 website=NA, 
+			User : kajetons	 (since 2014-06-12)	 reputation=59	 upvotes=59	 views=0	 website=NA, 
+			User : ulcha	 (since 2013-10-15)	 reputation=58	 upvotes=58	 views=46	 website=http://www.linkedin.com/profile/view?id, 
+			User : Arturs	 (since 2013-12-29)	 reputation=44	 upvotes=44	 views=1	 website=https://www.linkedin.com/in/arturskrapans/]
+
+Lebanon	Total Users :112
+[
+			User : Maythux	 (since 2013-04-19)	 reputation=1521	 upvotes=1521	 views=6747	 website=http://none, 
+			User : nux	 (since 2013-12-30)	 reputation=717	 upvotes=717	 views=4770	 website=http://www.Google.com, 
+			User : Raghd	 (since 2011-03-31)	 reputation=204	 upvotes=204	 views=25	 website=https://www.rhamzeh.com, 
+			User : Hadi	 (since 2018-05-28)	 reputation=54	 upvotes=54	 views=1	 website=http://data-dev.blogspot.com, 
+			User : Chafic	 (since 2012-12-26)	 reputation=36	 upvotes=36	 views=5	 website=https://chaficnajjar.com]
+
+Lesotho	Total Users :3
+[
+			User : user2947136	 (since 2015-12-08)	 reputation=0	 upvotes=0	 views=1	 website=http://www.comnet.co.ls/, 
+			User : ooo	 (since 2018-12-17)	 reputation=0	 upvotes=0	 views=6	 website=NA, 
+			User : Moabi	 (since 2018-10-05)	 reputation=0	 upvotes=0	 views=0	 website=http://www.datasense.co.ls]
+
+Liberia	Total Users :2
+[
+			User : mysterioux	 (since 2017-12-30)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Luis	 (since 2018-11-12)	 reputation=0	 upvotes=0	 views=0	 website=https://luisibaja3.github.io/]
+
+Libya	Total Users :14
+[
+			User : Muaad	 (since 2015-06-10)	 reputation=116	 upvotes=116	 views=176	 website=http://muaadelsharif.blogspot.com/, 
+			User : alsadk	 (since 2018-11-06)	 reputation=4	 upvotes=4	 views=0	 website=http://www.alsadk.com, 
+			User : Hussain	 (since 2018-01-11)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : akram	 (since 2018-09-05)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Mahmoud	 (since 2018-04-14)	 reputation=0	 upvotes=0	 views=3	 website=NA]
+
+Liechtenstein	Total Users :4
+[
+			User : Christoph	 (since 2015-10-23)	 reputation=16	 upvotes=16	 views=17	 website=http://cbuehler.li, 
+			User : hotzst	 (since 2016-06-12)	 reputation=11	 upvotes=11	 views=0	 website=NA, 
+			User : Xi	 (since 2012-07-09)	 reputation=7	 upvotes=7	 views=4	 website=NA, 
+			User : TMS	 (since 2013-07-31)	 reputation=1	 upvotes=1	 views=0	 website=https://lambda.li]
+
+Lithuania	Total Users :196
+[
+			User : zygimantus	 (since 2015-05-14)	 reputation=354	 upvotes=354	 views=16	 website=NA, 
+			User : Vaidas	 (since 2014-11-03)	 reputation=163	 upvotes=163	 views=5	 website=NA, 
+			User : Keith	 (since 2016-04-18)	 reputation=77	 upvotes=77	 views=6	 website=NA, 
+			User : Salivan	 (since 2015-07-15)	 reputation=60	 upvotes=60	 views=0	 website=NA, 
+			User : Mantas	 (since 2013-04-23)	 reputation=42	 upvotes=42	 views=14	 website=http://phpforus.com/]
+
+Luxembourg	Total Users :138
+[
+			User : Serge	 (since 2013-06-04)	 reputation=992	 upvotes=992	 views=679	 website=https://hamwaves.com, 
+			User : jawtheshark	 (since 2016-08-07)	 reputation=246	 upvotes=246	 views=384	 website=http://jorg.willekens.lu, 
+			User : gawi	 (since 2015-01-23)	 reputation=197	 upvotes=197	 views=3	 website=NA, 
+			User : julien	 (since 2010-08-10)	 reputation=92	 upvotes=92	 views=17	 website=https://www.linkedin.com/in/juliengaffuri/, 
+			User : L.	 (since 2012-12-19)	 reputation=86	 upvotes=86	 views=14	 website=NA]
+
+Macedonia	Total Users :42
+[
+			User : Vlad	 (since 2015-05-29)	 reputation=105	 upvotes=105	 views=10	 website=http://tunephp.blogspot.com, 
+			User : josifoski	 (since 2015-09-13)	 reputation=68	 upvotes=68	 views=18	 website=http://sourceforge.net/users/josifoski, 
+			User : giliev	 (since 2015-11-02)	 reputation=7	 upvotes=7	 views=6	 website=NA, 
+			User : Dejan	 (since 2018-05-13)	 reputation=6	 upvotes=6	 views=0	 website=NA, 
+			User : Dimitar	 (since 2018-08-23)	 reputation=6	 upvotes=6	 views=0	 website=NA]
+
+Madagascar	Total Users :32
+[
+			User : Manitra	 (since 2014-08-16)	 reputation=4	 upvotes=4	 views=7	 website=https://manitra.net, 
+			User : 4givN	 (since 2019-06-13)	 reputation=3	 upvotes=3	 views=0	 website=NA, 
+			User : Tsilavina	 (since 2016-08-05)	 reputation=2	 upvotes=2	 views=1	 website=NA, 
+			User : mszmurlo	 (since 2016-01-04)	 reputation=2	 upvotes=2	 views=4	 website=NA, 
+			User : Nick	 (since 2014-08-03)	 reputation=0	 upvotes=0	 views=2	 website=NA]
+
+Malawi	Total Users :9
+[
+			User : Mundile	 (since 2019-08-07)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Hastings	 (since 2017-04-03)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : Enock	 (since 2018-08-22)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Lusayo	 (since 2019-08-22)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : T-Sky	 (since 2012-04-25)	 reputation=0	 upvotes=0	 views=4	 website=http://tsky.waps.ms]
+
+Malaysia	Total Users :336
+[
+			User : clearkimura	 (since 2011-12-08)	 reputation=1034	 upvotes=1034	 views=1526	 website=NA, 
+			User : Fruit	 (since 2014-04-04)	 reputation=618	 upvotes=618	 views=100	 website=http://diannaoxiaobai.blogspot.com, 
+			User : penreturns	 (since 2012-06-17)	 reputation=230	 upvotes=230	 views=1471	 website=http://penreturns.rc.my, 
+			User : Infinite	 (since 2018-11-19)	 reputation=77	 upvotes=77	 views=71	 website=https://plus.google.com/u/0/+MohdAkmalZakiIO, 
+			User : Wilsonzaizai	 (since 2010-10-11)	 reputation=73	 upvotes=73	 views=121	 website=http://letsubuntu.tumblr.com]
+
+Maldives	Total Users :11
+[
+			User : Winger	 (since 2016-07-06)	 reputation=16	 upvotes=16	 views=2	 website=http://None, 
+			User : aimme	 (since 2015-08-28)	 reputation=13	 upvotes=13	 views=1	 website=NA, 
+			User : Ali	 (since 2016-09-06)	 reputation=10	 upvotes=10	 views=0	 website=https://aliharis.net, 
+			User : aharen	 (since 2015-05-21)	 reputation=6	 upvotes=6	 views=1	 website=https://khusaam.com, 
+			User : Xayan123	 (since 2015-03-11)	 reputation=0	 upvotes=0	 views=2	 website=https://www.zayaanibrahim.com]
+
+Mali	Total Users :5
+[
+			User : Elan	 (since 2019-08-28)	 reputation=0	 upvotes=0	 views=0	 website=https://elanshukartsi.wordpress.com/, 
+			User : elanshukartsi11	 (since 2019-05-16)	 reputation=0	 upvotes=0	 views=0	 website=https://sketchfab.com/elanshukartsi2, 
+			User : Khalid	 (since 2017-03-07)	 reputation=0	 upvotes=0	 views=11	 website=NA, 
+			User : Munjata	 (since 2018-08-03)	 reputation=0	 upvotes=0	 views=1	 website=http://munjata.io, 
+			User : Elan	 (since 2020-01-27)	 reputation=0	 upvotes=0	 views=0	 website=https://www.createnow.org/our-supporters/]
+
+Malta	Total Users :92
+[
+			User : To	 (since 2011-10-16)	 reputation=749	 upvotes=749	 views=4458	 website=http://www.jesuit.org.mt, 
+			User : MathuSum	 (since 2016-03-07)	 reputation=44	 upvotes=44	 views=2	 website=http://mathusummut.tk/, 
+			User : Ederico	 (since 2011-10-18)	 reputation=21	 upvotes=21	 views=114	 website=NA, 
+			User : Gigi	 (since 2017-10-15)	 reputation=19	 upvotes=19	 views=44	 website=http://gigi.nullneuron.net/gigilabs, 
+			User : rrz0	 (since 2018-03-10)	 reputation=18	 upvotes=18	 views=20	 website=NA]
+
+Mauritania	Total Users :2
+[
+			User : TiyebM	 (since 2013-11-20)	 reputation=0	 upvotes=0	 views=5	 website=NA, 
+			User : Azizachom	 (since 2012-12-21)	 reputation=0	 upvotes=0	 views=1	 website=NA]
+
+Mauritius	Total Users :47
+[
+			User : tej18	 (since 2016-07-07)	 reputation=78	 upvotes=78	 views=8	 website=NA, 
+			User : Dickriven	 (since 2012-04-24)	 reputation=24	 upvotes=24	 views=2	 website=NA, 
+			User : dmr_helper	 (since 2017-01-22)	 reputation=19	 upvotes=19	 views=6	 website=NA, 
+			User : RRikesh	 (since 2017-08-31)	 reputation=14	 upvotes=14	 views=0	 website=https://paperboat.io, 
+			User : Kervin	 (since 2012-08-06)	 reputation=12	 upvotes=12	 views=6	 website=http://www.facebook.com/kervin.ramen]
+
+Mexico	Total Users :693
+[
+			User : Uri	 (since 2010-10-16)	 reputation=1621	 upvotes=1621	 views=8797	 website=https://uriherrera.com, 
+			User : fitojb	 (since 2011-04-27)	 reputation=589	 upvotes=589	 views=282	 website=NA, 
+			User : Geppettvs	 (since 2011-01-25)	 reputation=448	 upvotes=448	 views=3856	 website=http://geppettvs.x10.mx, 
+			User : mau	 (since 2011-10-31)	 reputation=419	 upvotes=419	 views=41	 website=NA, 
+			User : xangua	 (since 2011-01-29)	 reputation=245	 upvotes=245	 views=1638	 website=http://twitter.com/xangua]
+
+Moldova	Total Users :62
+[
+			User : warvariuc	 (since 2010-12-08)	 reputation=358	 upvotes=358	 views=133	 website=http://blindvic.blogspot.com, 
+			User : IanRos	 (since 2011-05-02)	 reputation=41	 upvotes=41	 views=15	 website=http://localhost, 
+			User : Larry	 (since 2011-03-25)	 reputation=39	 upvotes=39	 views=29	 website=https://plus.google.com/u/0/106725394998983217244/posts, 
+			User : Alexandr	 (since 2014-06-19)	 reputation=38	 upvotes=38	 views=7	 website=NA, 
+			User : Druta	 (since 2018-09-12)	 reputation=34	 upvotes=34	 views=3	 website=http://qweqweq]
+
+Monaco	Total Users :7
+[
+			User : Stefano	 (since 2011-06-05)	 reputation=33	 upvotes=33	 views=2	 website=http://www.marss.com, 
+			User : Holly	 (since 2013-03-06)	 reputation=11	 upvotes=11	 views=17	 website=NA, 
+			User : GOST	 (since 2014-07-21)	 reputation=6	 upvotes=6	 views=31	 website=http://workpointipad.com/start, 
+			User : Please_Dont_Bully_Me_SO_Lords	 (since 2014-04-29)	 reputation=3	 upvotes=3	 views=2	 website=NA, 
+			User : Gianni	 (since 2013-10-15)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Mongolia	Total Users :23
+[
+			User : Almas	 (since 2015-07-28)	 reputation=30	 upvotes=30	 views=54	 website=http://dusal.blogmn.net, 
+			User : XenoN	 (since 2013-04-29)	 reputation=6	 upvotes=6	 views=10	 website=http://maniac.mn, 
+			User : hurelhuyag	 (since 2012-12-31)	 reputation=6	 upvotes=6	 views=26	 website=NA, 
+			User : Shinebayar	 (since 2019-08-16)	 reputation=3	 upvotes=3	 views=1	 website=NA, 
+			User : Gereltod	 (since 2011-05-02)	 reputation=1	 upvotes=1	 views=26	 website=http://www.maniac.mn]
+
+Montenegro	Total Users :13
+[
+			User : Roman	 (since 2019-08-07)	 reputation=2	 upvotes=2	 views=0	 website=NA, 
+			User : Milos	 (since 2015-12-17)	 reputation=1	 upvotes=1	 views=2	 website=http://deva.co, 
+			User : Milos	 (since 2014-07-08)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Milos	 (since 2014-11-06)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : Kiryl	 (since 2015-11-11)	 reputation=0	 upvotes=0	 views=3	 website=NA]
+
+Morocco	Total Users :223
+[
+			User : yaitloutou	 (since 2015-02-05)	 reputation=89	 upvotes=89	 views=31	 website=NA, 
+			User : Younes	 (since 2015-07-24)	 reputation=86	 upvotes=86	 views=0	 website=NA, 
+			User : Oussama	 (since 2012-10-30)	 reputation=83	 upvotes=83	 views=19	 website=https://www.linkedin.com/in/oussamaj/, 
+			User : Hakim	 (since 2013-08-20)	 reputation=68	 upvotes=68	 views=30	 website=http://quantizd.blogspot.com/, 
+			User : Badr	 (since 2016-07-12)	 reputation=58	 upvotes=58	 views=4	 website=NA]
+
+Mozambique	Total Users :6
+[
+			User : Malcolm	 (since 2011-03-14)	 reputation=1	 upvotes=1	 views=14	 website=NA, 
+			User : Gam	 (since 2019-02-23)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : moz	 (since 2018-05-10)	 reputation=0	 upvotes=0	 views=0	 website=http://tadeuverao.wordpress.com, 
+			User : Tim	 (since 2019-10-07)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Hugo	 (since 2018-07-29)	 reputation=0	 upvotes=0	 views=3	 website=NA]
+
+Namibia	Total Users :6
+[
+			User : Llewellyn	 (since 2015-02-16)	 reputation=30	 upvotes=30	 views=6	 website=http://vdm.io/llewellyn, 
+			User : SilSur	 (since 2015-02-22)	 reputation=4	 upvotes=4	 views=3	 website=http://www.whitsoft.com, 
+			User : PetrusJPrinsloo	 (since 2014-04-30)	 reputation=0	 upvotes=0	 views=0	 website=http://www.petrusjprinsloo.com, 
+			User : ohrionmartin	 (since 2020-06-04)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Nestor	 (since 2019-07-30)	 reputation=0	 upvotes=0	 views=2	 website=NA]
+
+Nauru	Total Users :1
+[
+			User : north-sentinel-crypto	 (since 2018-03-31)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Nepal	Total Users :272
+[
+			User : TechJhola	 (since 2014-07-31)	 reputation=409	 upvotes=409	 views=493	 website=http://sigdelsanjog.com.np/, 
+			User : rajan	 (since 2014-02-05)	 reputation=124	 upvotes=124	 views=175	 website=http://facebook.com/ultimate.bigbang, 
+			User : Pranav	 (since 2019-01-18)	 reputation=74	 upvotes=74	 views=300	 website=NA, 
+			User : Habi	 (since 2013-11-08)	 reputation=59	 upvotes=59	 views=186	 website=NA, 
+			User : Mukesh	 (since 2015-11-21)	 reputation=43	 upvotes=43	 views=2	 website=https://mukeshdev.com.np/]
+
+Netherlands	Total Users :1553
+[
+			User : Bruno	 (since 2011-09-29)	 reputation=3943	 upvotes=3943	 views=14489	 website=NA, 
+			User : Lekensteyn	 (since 2010-12-05)	 reputation=2283	 upvotes=2283	 views=10675	 website=https://lekensteyn.nl/, 
+			User : Jacob	 (since 2012-06-20)	 reputation=1289	 upvotes=1289	 views=7233	 website=https://launchpad.net/~vlijm, 
+			User : blade19899	 (since 2011-12-02)	 reputation=727	 upvotes=727	 views=5113	 website=http://www.eurobytes.nl/, 
+			User : Jos	 (since 2013-04-16)	 reputation=580	 upvotes=580	 views=2610	 website=http://aspidistra.nl]
+
+Nicaragua	Total Users :26
+[
+			User : carnendil	 (since 2012-04-30)	 reputation=874	 upvotes=874	 views=459	 website=NA, 
+			User : Jonathan	 (since 2013-09-04)	 reputation=109	 upvotes=109	 views=130	 website=http://www.ometepebeachhotel.com, 
+			User : Cedric	 (since 2014-05-09)	 reputation=27	 upvotes=27	 views=1	 website=http://www.clinsis.com, 
+			User : user615274	 (since 2015-02-18)	 reputation=21	 upvotes=21	 views=32	 website=NA, 
+			User : eveevans	 (since 2012-07-01)	 reputation=13	 upvotes=13	 views=7	 website=http://www.testhumansuits.com/]
+
+Niger	Total Users :208
+[
+			User : Ukor	 (since 2016-12-02)	 reputation=45	 upvotes=45	 views=3	 website=http://ukorjidechi.com, 
+			User : Thecarisma	 (since 2018-06-24)	 reputation=34	 upvotes=34	 views=0	 website=https://thecarisma.github.io/, 
+			User : Damilola	 (since 2016-02-21)	 reputation=20	 upvotes=20	 views=2	 website=NA, 
+			User : antzshrek	 (since 2017-08-10)	 reputation=18	 upvotes=18	 views=1	 website=https://geekyourselfblog.wordpress.com, 
+			User : WhiZTiM	 (since 2014-12-07)	 reputation=15	 upvotes=15	 views=65	 website=http://whiztim.com]
+
+Norway	Total Users :519
+[
+			User : Håkon	 (since 2013-05-08)	 reputation=771	 upvotes=771	 views=284	 website=NA, 
+			User : Egil	 (since 2011-04-04)	 reputation=627	 upvotes=627	 views=415	 website=http://bonarjee.in, 
+			User : vidarlo	 (since 2017-02-11)	 reputation=465	 upvotes=465	 views=2760	 website=https://bitsex.net, 
+			User : kjetil	 (since 2012-12-19)	 reputation=232	 upvotes=232	 views=24	 website=NA, 
+			User : Hubro	 (since 2012-03-30)	 reputation=153	 upvotes=153	 views=168	 website=NA]
+
+Oman	Total Users :18
+[
+			User : dmSherazi	 (since 2014-03-10)	 reputation=57	 upvotes=57	 views=17	 website=http://www.dostmuhammad.com, 
+			User : BaderSur	 (since 2012-06-14)	 reputation=11	 upvotes=11	 views=28	 website=https://badersur.github.io/?stacked, 
+			User : Mohammad	 (since 2018-08-09)	 reputation=9	 upvotes=9	 views=1	 website=NA, 
+			User : Ali	 (since 2013-04-17)	 reputation=6	 upvotes=6	 views=6	 website=http://www.omandev.net, 
+			User : foxoman	 (since 2011-03-19)	 reputation=5	 upvotes=5	 views=12	 website=http://gplus.to/foxoman]
+
+Pakistan	Total Users :662
+[
+			User : Hizqeel	 (since 2016-04-12)	 reputation=545	 upvotes=545	 views=1041	 website=NA, 
+			User : Basharat	 (since 2011-12-07)	 reputation=358	 upvotes=358	 views=2220	 website=NA, 
+			User : binW	 (since 2010-11-30)	 reputation=346	 upvotes=346	 views=573	 website=http://binwaheed.blogspot.com, 
+			User : Abdul	 (since 2013-03-16)	 reputation=272	 upvotes=272	 views=17	 website=https://armujahid.me, 
+			User : Sufian	 (since 2012-06-10)	 reputation=237	 upvotes=237	 views=31	 website=NA]
+
+Panama	Total Users :58
+[
+			User : emont01	 (since 2012-02-08)	 reputation=9	 upvotes=9	 views=16	 website=http://emont01.blogspot.com, 
+			User : user1916831	 (since 2013-01-04)	 reputation=6	 upvotes=6	 views=15	 website=NA, 
+			User : Daniel	 (since 2018-05-12)	 reputation=4	 upvotes=4	 views=0	 website=NA, 
+			User : warmth	 (since 2014-03-05)	 reputation=2	 upvotes=2	 views=5	 website=http://warmth.flavors.me, 
+			User : Eriol	 (since 2014-06-21)	 reputation=2	 upvotes=2	 views=0	 website=NA]
+
+Paraguay	Total Users :32
+[
+			User : Ralf	 (since 2018-08-28)	 reputation=73	 upvotes=73	 views=1	 website=NA, 
+			User : José	 (since 2018-04-30)	 reputation=15	 upvotes=15	 views=9	 website=NA, 
+			User : user2092778	 (since 2013-11-10)	 reputation=10	 upvotes=10	 views=2	 website=https://www.karlbooklover.com/, 
+			User : Humber	 (since 2013-09-24)	 reputation=8	 upvotes=8	 views=0	 website=http://humberaquino.me, 
+			User : nelruk	 (since 2014-06-06)	 reputation=7	 upvotes=7	 views=14	 website=NA]
+
+Peru	Total Users :77
+[
+			User : Manuel	 (since 2019-06-28)	 reputation=136	 upvotes=136	 views=114	 website=NA, 
+			User : PuercoPop	 (since 2013-07-15)	 reputation=81	 upvotes=81	 views=15	 website=NA, 
+			User : ajin	 (since 2019-07-15)	 reputation=44	 upvotes=44	 views=0	 website=NA, 
+			User : dennisbot	 (since 2013-10-14)	 reputation=20	 upvotes=20	 views=6	 website=http://dennisbot.me, 
+			User : Ivan	 (since 2013-12-26)	 reputation=18	 upvotes=18	 views=12	 website=http://en.latindevelopers.com/ivancp/]
+
+Philippines	Total Users :558
+[
+			User : Peachy	 (since 2012-06-16)	 reputation=2282	 upvotes=2282	 views=4000	 website=NA, 
+			User : raymelfrancisco	 (since 2017-07-30)	 reputation=266	 upvotes=266	 views=1	 website=https://raymelon.github.io, 
+			User : Czar	 (since 2013-11-02)	 reputation=141	 upvotes=141	 views=0	 website=https://www.czarpino.com, 
+			User : hpesoj626	 (since 2012-08-29)	 reputation=98	 upvotes=98	 views=5	 website=NA, 
+			User : Ardee	 (since 2012-08-20)	 reputation=88	 upvotes=88	 views=2	 website=https://ardeearam.io]
+
+Poland	Total Users :1147
+[
+			User : user11153	 (since 2012-11-08)	 reputation=850	 upvotes=850	 views=25	 website=NA, 
+			User : enedil	 (since 2013-06-27)	 reputation=833	 upvotes=833	 views=429	 website=NA, 
+			User : Praweł	 (since 2010-10-10)	 reputation=779	 upvotes=779	 views=456	 website=NA, 
+			User : Konrad	 (since 2015-05-06)	 reputation=779	 upvotes=779	 views=69	 website=NA, 
+			User : Michal	 (since 2013-03-12)	 reputation=771	 upvotes=771	 views=462	 website=NA]
+
+Portugal	Total Users :596
+[
+			User : João	 (since 2010-08-05)	 reputation=1082	 upvotes=1082	 views=1155	 website=http://www.getdeb.net, 
+			User : ricmarques	 (since 2012-03-30)	 reputation=859	 upvotes=859	 views=22	 website=http://twitter.com/ricmarques, 
+			User : mwm	 (since 2010-08-04)	 reputation=401	 upvotes=401	 views=94	 website=https://mwmdev.com, 
+			User : Ismael	 (since 2015-02-10)	 reputation=216	 upvotes=216	 views=195	 website=NA, 
+			User : LnxSlck	 (since 2012-03-04)	 reputation=205	 upvotes=205	 views=1854	 website=http://lnxslck.wordpress.com]
+
+Qatar	Total Users :25
+[
+			User : Md	 (since 2016-08-11)	 reputation=24	 upvotes=24	 views=0	 website=NA, 
+			User : Kaziweb	 (since 2012-03-27)	 reputation=16	 upvotes=16	 views=21	 website=https://launchpad.net/~kaziweb, 
+			User : shareef	 (since 2014-02-20)	 reputation=14	 upvotes=14	 views=69	 website=NA, 
+			User : SoCRaT	 (since 2017-05-03)	 reputation=8	 upvotes=8	 views=17	 website=http://mytechnicalthoughts.wordpress.com, 
+			User : Adarsh	 (since 2014-11-14)	 reputation=4	 upvotes=4	 views=10	 website=http://stackoverflow.com/users/2251990/]
+
+Romania	Total Users :422
+[
+			User : Radu	 (since 2013-04-05)	 reputation=3236	 upvotes=3236	 views=18107	 website=https://www.launchpad.net/~radu-radeanu, 
+			User : Ionică	 (since 2013-04-11)	 reputation=521	 upvotes=521	 views=819	 website=https://ionicabizau.net, 
+			User : Cristiana	 (since 2013-04-02)	 reputation=332	 upvotes=332	 views=3421	 website=http://CristianaNicolae.blogspot.com, 
+			User : ROMANIA_engineer	 (since 2014-08-27)	 reputation=222	 upvotes=222	 views=367	 website=http://no, 
+			User : Radu	 (since 2010-11-14)	 reputation=157	 upvotes=157	 views=96	 website=http://www.linkedin.com/in/marisradu]
+
+Rwanda	Total Users :16
+[
+			User : ishimwe	 (since 2018-05-14)	 reputation=37	 upvotes=37	 views=5	 website=NA, 
+			User : Espoir	 (since 2017-01-23)	 reputation=12	 upvotes=12	 views=5	 website=http://murhabazi.com, 
+			User : Eliethesaiyan	 (since 2014-02-27)	 reputation=9	 upvotes=9	 views=8	 website=http://www.codepac.rw, 
+			User : Shaphan	 (since 2020-05-17)	 reputation=3	 upvotes=3	 views=0	 website=NA, 
+			User : gildniy	 (since 2020-03-30)	 reputation=2	 upvotes=2	 views=0	 website=http://gildniy.ml]
+
+Senegal	Total Users :4
+[
+			User : Ousseynou	 (since 2018-08-18)	 reputation=0	 upvotes=0	 views=0	 website=https://ousseynoudiop.com, 
+			User : Julianti	 (since 2017-07-13)	 reputation=0	 upvotes=0	 views=0	 website=http://imcdomino99.com/, 
+			User : sabayke	 (since 2020-01-07)	 reputation=0	 upvotes=0	 views=1	 website=https://sabaykebremso.me, 
+			User : Benewend	 (since 2020-07-10)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Serbia	Total Users :265
+[
+			User : 2707974	 (since 2014-02-28)	 reputation=1329	 upvotes=1329	 views=2922	 website=NA, 
+			User : Igor	 (since 2014-08-07)	 reputation=207	 upvotes=207	 views=82	 website=http://bit.ly/igoriscodeic, 
+			User : Aleksandar	 (since 2016-11-21)	 reputation=95	 upvotes=95	 views=7	 website=NA, 
+			User : Reloader	 (since 2013-02-11)	 reputation=85	 upvotes=85	 views=14	 website=NA, 
+			User : Aleks	 (since 2013-12-08)	 reputation=69	 upvotes=69	 views=76	 website=https://aleksandroz.com]
+
+Seychelles	Total Users :2
+[
+			User : jaggedsoft	 (since 2015-09-15)	 reputation=44	 upvotes=44	 views=3	 website=https://nextlocal.net, 
+			User : Blad	 (since 2019-08-07)	 reputation=0	 upvotes=0	 views=0	 website=NA]
+
+Singapore	Total Users :1102
+[
+			User : edwinksl	 (since 2011-04-26)	 reputation=5610	 upvotes=5610	 views=3774	 website=https://www.edwinksl.com, 
+			User : evandrix	 (since 2012-11-09)	 reputation=1006	 upvotes=1006	 views=16	 website=https://www.facebook.com/lwy08, 
+			User : Raju	 (since 2016-02-02)	 reputation=770	 upvotes=770	 views=17	 website=NA, 
+			User : MichaelChirico	 (since 2014-12-29)	 reputation=339	 upvotes=339	 views=34	 website=http://michaelchirico.github.io/, 
+			User : Yi	 (since 2010-10-10)	 reputation=311	 upvotes=311	 views=729	 website=http://meebleforp.com/]
+
+Slovakia	Total Users :233
+[
+			User : Michal	 (since 2016-04-22)	 reputation=442	 upvotes=442	 views=138	 website=NA, 
+			User : atomsymbol	 (since 2014-05-10)	 reputation=111	 upvotes=111	 views=3	 website=http://atom-symbol.net, 
+			User : tukusejssirs	 (since 2014-05-09)	 reputation=104	 upvotes=104	 views=35	 website=NA, 
+			User : wair92	 (since 2013-10-23)	 reputation=75	 upvotes=75	 views=59	 website=NA, 
+			User : 32cupo	 (since 2014-07-09)	 reputation=73	 upvotes=73	 views=0	 website=NA]
+
+Slovenia	Total Users :204
+[
+			User : NonStandardModel	 (since 2016-04-05)	 reputation=577	 upvotes=577	 views=329	 website=NA, 
+			User : kv1dr	 (since 2010-09-01)	 reputation=259	 upvotes=259	 views=100	 website=NA, 
+			User : Wolfy	 (since 2010-10-14)	 reputation=192	 upvotes=192	 views=160	 website=http://www.urosvovk.com/, 
+			User : duality_	 (since 2013-03-27)	 reputation=176	 upvotes=176	 views=9	 website=http://ddesign.si, 
+			User : 71GA	 (since 2011-12-20)	 reputation=153	 upvotes=153	 views=41	 website=NA]
+
+Somalia	Total Users :1
+[
+			User : Melauki	 (since 2014-12-18)	 reputation=3	 upvotes=3	 views=4	 website=NA]
+
+Spain	Total Users :844
+[
+			User : Tulains	 (since 2012-10-31)	 reputation=484	 upvotes=484	 views=162	 website=NA, 
+			User : Sopalajo	 (since 2012-11-18)	 reputation=358	 upvotes=358	 views=201	 website=NA, 
+			User : garciparedes	 (since 2015-10-22)	 reputation=276	 upvotes=276	 views=0	 website=https://garciparedes.me, 
+			User : Dr.jacky	 (since 2015-06-24)	 reputation=227	 upvotes=227	 views=225	 website=https://drjackycv.web.app/, 
+			User : Alberto	 (since 2016-12-29)	 reputation=220	 upvotes=220	 views=4	 website=https://www.linkedin.com/in/alberto-snchez-romero-267163154]
+
+Sudan	Total Users :34
+[
+			User : EL	 (since 2018-02-17)	 reputation=8	 upvotes=8	 views=5	 website=http://www.linkedin.com/in/al-tegani, 
+			User : Ali	 (since 2015-09-14)	 reputation=7	 upvotes=7	 views=14	 website=NA, 
+			User : moazhmi	 (since 2012-09-08)	 reputation=4	 upvotes=4	 views=7	 website=NA, 
+			User : Yahia	 (since 2019-03-29)	 reputation=0	 upvotes=0	 views=8	 website=NA, 
+			User : Obaaa8	 (since 2018-08-27)	 reputation=0	 upvotes=0	 views=1	 website=http://obaaa.sd]
+
+Suriname	Total Users :2
+[
+			User : Fuseteam	 (since 2015-05-28)	 reputation=83	 upvotes=83	 views=43	 website=http://fuseteam.ml, 
+			User : davejal	 (since 2014-09-15)	 reputation=13	 upvotes=13	 views=12	 website=NA]
+
+Swaziland	Total Users :3
+[
+			User : Pledges	 (since 2014-12-17)	 reputation=0	 upvotes=0	 views=0	 website=http://www.ipafricatech.com, 
+			User : Masabza	 (since 2014-03-02)	 reputation=0	 upvotes=0	 views=4	 website=NA, 
+			User : Penwell	 (since 2016-08-16)	 reputation=0	 upvotes=0	 views=1	 website=NA]
+
+Sweden	Total Users :1055
+[
+			User : mattias	 (since 2014-01-07)	 reputation=203	 upvotes=203	 views=52	 website=http://www.google.se, 
+			User : FredN	 (since 2011-11-04)	 reputation=192	 upvotes=192	 views=119	 website=http://www.fredrikx.wordpress.com, 
+			User : Karl	 (since 2013-02-12)	 reputation=192	 upvotes=192	 views=870	 website=NA, 
+			User : Xweque	 (since 2012-10-29)	 reputation=163	 upvotes=163	 views=178	 website=http://hostdb.net, 
+			User : Anders	 (since 2011-01-31)	 reputation=153	 upvotes=153	 views=500	 website=http://www.hig.se/]
+
+Switzerland	Total Users :878
+[
+			User : kamil	 (since 2013-08-07)	 reputation=1466	 upvotes=1466	 views=2063	 website=http://outlook.com, 
+			User : pim	 (since 2015-09-25)	 reputation=816	 upvotes=816	 views=368	 website=https://cli.pignat.org, 
+			User : MadMike	 (since 2012-07-05)	 reputation=623	 upvotes=623	 views=2116	 website=https://ruum42.ch, 
+			User : s3lph	 (since 2013-09-21)	 reputation=495	 upvotes=495	 views=2056	 website=http://www.example.com, 
+			User : WitchCraft	 (since 2010-08-28)	 reputation=289	 upvotes=289	 views=716	 website=https://console.developers.google.com]
+
+Syria	Total Users :60
+[
+			User : Mohammad	 (since 2014-05-01)	 reputation=70	 upvotes=70	 views=48	 website=NA, 
+			User : Lawand	 (since 2010-08-06)	 reputation=62	 upvotes=62	 views=49	 website=http://lawand.wordpress.com, 
+			User : Mohannd	 (since 2013-07-28)	 reputation=57	 upvotes=57	 views=11	 website=NA, 
+			User : Zacktamondo	 (since 2017-10-28)	 reputation=43	 upvotes=43	 views=0	 website=NA, 
+			User : Ahmad	 (since 2013-09-25)	 reputation=13	 upvotes=13	 views=7	 website=https://samilox.com]
+
+Taiwan	Total Users :327
+[
+			User : ankit7540	 (since 2016-05-10)	 reputation=343	 upvotes=343	 views=688	 website=NA, 
+			User : P.-H.	 (since 2014-09-12)	 reputation=162	 upvotes=162	 views=423	 website=https://launchpad.net/~cypressyew, 
+			User : 黃健瑋	 (since 2012-04-06)	 reputation=133	 upvotes=133	 views=0	 website=https://carlcarl.me, 
+			User : hansioux	 (since 2010-10-11)	 reputation=81	 upvotes=81	 views=88	 website=http://hansioux.pixnet.net, 
+			User : Corey	 (since 2016-10-28)	 reputation=79	 upvotes=79	 views=39	 website=http://thai-lin.blogspot.tw/]
+
+Tajikistan	Total Users :3
+[
+			User : Zulfidin	 (since 2015-08-11)	 reputation=1	 upvotes=1	 views=10	 website=https://www.instagram.com/zulfidink/, 
+			User : Jamshed	 (since 2019-10-20)	 reputation=0	 upvotes=0	 views=12	 website=NA, 
+			User : Abdu	 (since 2016-03-31)	 reputation=0	 upvotes=0	 views=1	 website=http://opendata.tj]
+
+Tanzania	Total Users :34
+[
+			User : ArchNoob	 (since 2014-05-12)	 reputation=54	 upvotes=54	 views=172	 website=http://archnoob.com, 
+			User : thetna	 (since 2014-04-13)	 reputation=2	 upvotes=2	 views=1	 website=NA, 
+			User : joas	 (since 2015-11-09)	 reputation=2	 upvotes=2	 views=9	 website=NA, 
+			User : mwangaben	 (since 2020-08-13)	 reputation=2	 upvotes=2	 views=0	 website=http://considerdone.org, 
+			User : Gpak	 (since 2018-05-26)	 reputation=2	 upvotes=2	 views=1	 website=NA]
+
+Thailand	Total Users :194
+[
+			User : Geoffrey	 (since 2017-09-11)	 reputation=91	 upvotes=91	 views=136	 website=http://www.cvbt-web.org, 
+			User : Kit	 (since 2011-05-03)	 reputation=67	 upvotes=67	 views=104	 website=https://withkit.com, 
+			User : Bonn	 (since 2014-04-20)	 reputation=49	 upvotes=49	 views=50	 website=NA, 
+			User : eetsurt	 (since 2013-06-28)	 reputation=37	 upvotes=37	 views=44	 website=NA, 
+			User : deepcell	 (since 2011-02-14)	 reputation=35	 upvotes=35	 views=167	 website=NA]
+
+Togo	Total Users :3
+[
+			User : Yao	 (since 2018-11-25)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : David	 (since 2019-09-28)	 reputation=0	 upvotes=0	 views=0	 website=https://davyoung3.github.io, 
+			User : Essodjolo	 (since 2016-01-06)	 reputation=0	 upvotes=0	 views=0	 website=http://www.kahanam.com]
+
+Tunisia	Total Users :169
+[
+			User : singrium	 (since 2018-04-26)	 reputation=988	 upvotes=988	 views=810	 website=NA, 
+			User : ahmedhelali100	 (since 2017-01-07)	 reputation=846	 upvotes=846	 views=32	 website=NA, 
+			User : GAD3R	 (since 2016-01-28)	 reputation=433	 upvotes=433	 views=382	 website=NA, 
+			User : Abdennour	 (since 2013-05-16)	 reputation=64	 upvotes=64	 views=759	 website=http://kubernetes.tn, 
+			User : UnLoCo	 (since 2015-04-05)	 reputation=60	 upvotes=60	 views=29	 website=http://prestalife.wordpress.com]
+
+Turkey	Total Users :604
+[
+			User : Esref	 (since 2015-01-24)	 reputation=212	 upvotes=212	 views=22	 website=http://www.esrefozturk.com, 
+			User : kommradHomer	 (since 2012-06-01)	 reputation=105	 upvotes=105	 views=218	 website=https://medium.com/@kommradhomer, 
+			User : kibar	 (since 2017-12-19)	 reputation=102	 upvotes=102	 views=0	 website=https://kibar.pro, 
+			User : Montag451	 (since 2014-04-01)	 reputation=102	 upvotes=102	 views=16	 website=NA, 
+			User : FedonKadifeli	 (since 2018-07-31)	 reputation=90	 upvotes=90	 views=618	 website=https://kadifeli.com/fedon]
+
+Turkmenistan	Total Users :8
+[
+			User : ilyas	 (since 2016-08-02)	 reputation=10	 upvotes=10	 views=31	 website=https://www.turkmeneb.pro, 
+			User : IamMashed	 (since 2018-05-04)	 reputation=8	 upvotes=8	 views=16	 website=NA, 
+			User : Muhammet	 (since 2016-02-15)	 reputation=7	 upvotes=7	 views=2	 website=http://matiyev.com, 
+			User : alexm	 (since 2011-02-11)	 reputation=3	 upvotes=3	 views=14	 website=NA, 
+			User : merdan	 (since 2018-02-09)	 reputation=2	 upvotes=2	 views=0	 website=NA]
+
+Tuvalu	Total Users :2
+[
+			User : l..	 (since 2016-02-12)	 reputation=0	 upvotes=0	 views=6	 website=NA, 
+			User : fdd	 (since 2014-01-31)	 reputation=0	 upvotes=0	 views=0	 website=http://altair.pw/]
+
+Uganda	Total Users :56
+[
+			User : Leonard	 (since 2014-09-01)	 reputation=54	 upvotes=54	 views=14	 website=NA, 
+			User : Dr	 (since 2011-02-19)	 reputation=3	 upvotes=3	 views=13	 website=NA, 
+			User : Isaac	 (since 2020-03-23)	 reputation=2	 upvotes=2	 views=0	 website=https://www.trevexs.com, 
+			User : jake	 (since 2010-09-15)	 reputation=1	 upvotes=1	 views=0	 website=NA, 
+			User : Wasswa	 (since 2015-06-10)	 reputation=1	 upvotes=1	 views=1	 website=NA]
+
+Ukraine	Total Users :1124
+[
+			User : Gryu	 (since 2019-02-18)	 reputation=1949	 upvotes=1949	 views=1295	 website=NA, 
+			User : fuser	 (since 2015-10-10)	 reputation=481	 upvotes=481	 views=119	 website=NA, 
+			User : yAnTar	 (since 2013-01-08)	 reputation=448	 upvotes=448	 views=1	 website=http://yablog.org.ua/, 
+			User : Arto	 (since 2013-03-25)	 reputation=287	 upvotes=287	 views=7	 website=https://ar.to, 
+			User : heroin	 (since 2014-09-25)	 reputation=253	 upvotes=253	 views=42	 website=NA]
+
+Uruguay	Total Users :89
+[
+			User : marcanuy	 (since 2012-01-23)	 reputation=342	 upvotes=342	 views=38	 website=http://marcanuy.com, 
+			User : rrosa	 (since 2012-08-14)	 reputation=118	 upvotes=118	 views=32	 website=NA, 
+			User : leticia	 (since 2012-02-09)	 reputation=66	 upvotes=66	 views=105	 website=http://generalsoftwareinc.com/, 
+			User : Nachito	 (since 2010-10-15)	 reputation=61	 upvotes=61	 views=24	 website=NA, 
+			User : Andrés	 (since 2015-01-16)	 reputation=46	 upvotes=46	 views=10	 website=NA]
+
+Uzbekistan	Total Users :47
+[
+			User : Olimjon	 (since 2015-12-28)	 reputation=166	 upvotes=166	 views=743	 website=NA, 
+			User : Ulug'bek	 (since 2014-11-18)	 reputation=88	 upvotes=88	 views=13	 website=NA, 
+			User : Abror	 (since 2017-02-18)	 reputation=50	 upvotes=50	 views=2	 website=NA, 
+			User : Alex	 (since 2017-07-17)	 reputation=17	 upvotes=17	 views=0	 website=http://stackoverflow.com/users/466646/frozen-spider, 
+			User : JavaMachine	 (since 2016-01-22)	 reputation=9	 upvotes=9	 views=1	 website=NA]
+
+Vanuatu	Total Users :3
+[
+			User : chester	 (since 2014-09-09)	 reputation=0	 upvotes=0	 views=4	 website=http://tokmind.blogspot.com, 
+			User : Alfy	 (since 2016-04-27)	 reputation=0	 upvotes=0	 views=1	 website=NA, 
+			User : medotvu	 (since 2020-06-01)	 reputation=0	 upvotes=0	 views=0	 website=http://www.itassistvanuatu.com]
+
+Venezuela	Total Users :172
+[
+			User : Marysol	 (since 2011-11-25)	 reputation=1202	 upvotes=1202	 views=127	 website=http://blog.techysugar.com/, 
+			User : Werner	 (since 2017-05-14)	 reputation=93	 upvotes=93	 views=0	 website=http://werner.heroku.com/, 
+			User : mcepeda14	 (since 2011-03-28)	 reputation=90	 upvotes=90	 views=12	 website=NA, 
+			User : Hassek	 (since 2014-06-17)	 reputation=78	 upvotes=78	 views=1	 website=https://hassek.github.io/, 
+			User : Jair	 (since 2016-06-07)	 reputation=67	 upvotes=67	 views=2	 website=NA]
+
+Vietnam	Total Users :463
+[
+			User : Nam	 (since 2011-07-27)	 reputation=464	 upvotes=464	 views=338	 website=http://namgivu.wordpress.com, 
+			User : phuclv	 (since 2014-03-01)	 reputation=209	 upvotes=209	 views=271	 website=NA, 
+			User : HVNSweeting	 (since 2012-08-02)	 reputation=133	 upvotes=133	 views=52	 website=https://www.familug.org/, 
+			User : Luke	 (since 2011-12-14)	 reputation=105	 upvotes=105	 views=37	 website=NA, 
+			User : Vincent	 (since 2016-02-22)	 reputation=88	 upvotes=88	 views=21	 website=https://www.facebook.com/typn.dang.9]
+
+Yemen	Total Users :14
+[
+			User : assaqqaf	 (since 2014-10-19)	 reputation=5	 upvotes=5	 views=1	 website=http://www.ubuntca.com, 
+			User : ammaro	 (since 2013-02-28)	 reputation=1	 upvotes=1	 views=4	 website=https://twitter.com/ammaro, 
+			User : بشير	 (since 2017-04-24)	 reputation=0	 upvotes=0	 views=1	 website=http://alshamiri1.blogspot.com, 
+			User : islamux	 (since 2017-05-09)	 reputation=0	 upvotes=0	 views=13	 website=http://www.linuxac.org, 
+			User : Sarah	 (since 2019-01-13)	 reputation=0	 upvotes=0	 views=6	 website=NA]
+
+Zambia	Total Users :14
+[
+			User : Alinani	 (since 2012-08-02)	 reputation=26	 upvotes=26	 views=9	 website=http://a1inani.github.io, 
+			User : Zyangeni	 (since 2020-08-29)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : lweendo	 (since 2019-11-06)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : mutale	 (since 2020-01-30)	 reputation=0	 upvotes=0	 views=0	 website=NA, 
+			User : Irven	 (since 2017-11-08)	 reputation=0	 upvotes=0	 views=2	 website=NA]
+
+Zimbabwe	Total Users :29
+[
+			User : Victor	 (since 2012-08-10)	 reputation=7	 upvotes=7	 views=30	 website=NA, 
+			User : Moyo	 (since 2016-10-09)	 reputation=6	 upvotes=6	 views=43	 website=NA, 
+			User : user193661	 (since 2014-08-19)	 reputation=5	 upvotes=5	 views=6	 website=NA, 
+			User : okandas	 (since 2019-11-08)	 reputation=2	 upvotes=2	 views=0	 website=http://farmnport.com, 
+			User : Jimbo	 (since 2019-11-01)	 reputation=2	 upvotes=2	 views=0	 website=NA]
+

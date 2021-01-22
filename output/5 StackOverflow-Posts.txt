@@ -1,0 +1,954 @@
+Week 1			 Total posts 3530
+
+			2017-01-07 10:51	Title: Apache error Could not reliably determine the server's fully qualified domain name
+								Sentiment: 5.128205128205128% positive	Score: 469	Answer Count: 14
+
+			2017-01-02 16:30	Title: Clock time is off on dual boot
+								Sentiment: 2.272727272727273% positive	Score: 349	Answer Count: 4
+
+			2016-01-07 00:38	Title: Is FFmpeg missing from the official repositories in 14.04?
+								Sentiment: 1.9607843137254901% positive	Score: 299	Answer Count: 10
+
+			2011-01-03 15:14	Title: How do you restart Apache?
+								Sentiment: 3.8461538461538463% positive	Score: 277	Answer Count: 13
+
+			2013-12-30 23:32	Title: (CRON) info (No MTA installed, discarding output) error in the syslog
+								Sentiment: 4.285714285714286% positive	Score: 233	Answer Count: 11
+
+
+Week 2			 Total posts 3689
+
+			2014-01-11 13:02	Title: Getting System program problem detected pops up regularly after upgrade
+								Sentiment: neutral	Score: 354	Answer Count: 5
+
+			2015-01-09 02:02	Title: Unable to mount Windows (NTFS) filesystem due to hibernation
+								Sentiment: neutral	Score: 346	Answer Count: 21
+
+			2019-01-10 21:50	Title: Error sudo: add-apt-repository: command not found
+								Sentiment: 2.7027027027027026% positive	Score: 240	Answer Count: 2
+
+			2013-01-07 07:30	Title: Run adduser non-interactively
+								Sentiment: neutral	Score: 238	Answer Count: 2
+
+			2011-01-14 22:59	Title: How to create an empty file from command line
+								Sentiment: neutral	Score: 213	Answer Count: 6
+
+
+Week 3			 Total posts 3646
+
+			2014-01-19 20:29	Title: How do I uncompress a tarball that uses .xz?
+								Sentiment: 2.857142857142857% positive	Score: 865	Answer Count: 12
+
+			2016-01-22 15:20	Title: How do I remove old kernel versions to clean up the boot menu?
+								Sentiment: 4.761904761904762% positive	Score: 719	Answer Count: 38
+
+			2012-01-17 15:36	Title: How to create a soft or symbolic link?
+								Sentiment: 3.3333333333333335% positive	Score: 528	Answer Count: 8
+
+			2013-01-19 10:40	Title: How can I break out of ssh when it locks?
+								Sentiment: 4.0% negative	Score: 400	Answer Count: 3
+
+			2019-01-16 21:27	Title: How to modify an invalid '/etc/sudoers' file?
+								Sentiment: 4.878048780487805% negative	Score: 261	Answer Count: 15
+
+
+Week 4			 Total posts 3690
+
+			2016-01-31 14:18	Title: How can PPAs be removed?
+								Sentiment: 2.631578947368421% positive	Score: 1343	Answer Count: 26
+
+			2020-01-20 19:21	Title: How to get bash or ssh into a running container in background mode?
+								Sentiment: neutral	Score: 955	Answer Count: 15
+
+			2015-01-20 14:37	Title: How do I fix my locale issue?
+								Sentiment: 1.3333333333333335% negative	Score: 537	Answer Count: 19
+
+			2014-01-22 02:20	Title: How do I find the package that provides a file?
+								Sentiment: 1.7543859649122806% positive	Score: 533	Answer Count: 8
+
+			2016-01-31 14:28	Title: Ubuntu gets stuck in a login loop
+								Sentiment: 6.976744186046512% negative	Score: 514	Answer Count: 49
+
+
+Week 5			 Total posts 3909
+
+			2018-01-30 08:56	Title: How do I install a .deb file via the command line?
+								Sentiment: neutral	Score: 1181	Answer Count: 10
+
+			2017-01-30 15:44	Title: How to increment a variable in bash?
+								Sentiment: neutral	Score: 682	Answer Count: 8
+
+			2012-02-04 11:07	Title: Unity doesn't load, no Launcher, no Dash appears
+								Sentiment: neutral	Score: 560	Answer Count: 35
+
+			2017-01-30 06:54	Title: How to install Google Chrome
+								Sentiment: neutral	Score: 535	Answer Count: 7
+
+			2013-02-01 10:53	Title: How do I start applications automatically on login?
+								Sentiment: neutral	Score: 374	Answer Count: 15
+
+
+Week 6			 Total posts 3541
+
+			2016-02-14 19:29	Title: How to install updates via command line?
+								Sentiment: neutral	Score: 759	Answer Count: 9
+
+			2018-02-11 20:44	Title: How do I get the CPU temperature?
+								Sentiment: neutral	Score: 583	Answer Count: 19
+
+			2018-02-11 20:18	Title: How can I suspend/hibernate from command line?
+								Sentiment: neutral	Score: 393	Answer Count: 13
+
+			2012-02-07 23:59	Title: How to see the command attached to a bash alias?
+								Sentiment: 5.263157894736842% negative	Score: 389	Answer Count: 5
+
+			2016-02-14 19:30	Title: How can I install just security updates from the command line?
+								Sentiment: 3.225806451612903% positive	Score: 359	Answer Count: 10
+
+
+Week 7			 Total posts 3358
+
+			2014-02-14 21:38	Title: How do I save terminal output to a file?
+								Sentiment: 5.0% positive	Score: 932	Answer Count: 8
+
+			2014-02-13 09:44	Title: How do I determine the total size of a directory (folder) from the command line?
+								Sentiment: 2.3255813953488373% positive	Score: 882	Answer Count: 12
+
+			2018-02-12 20:16	Title: How do I free up more space in /boot?
+								Sentiment: 0.9009009009009009% negative	Score: 575	Answer Count: 22
+
+			2017-02-16 06:42	Title: What do the different colors mean in ls?
+								Sentiment: neutral	Score: 398	Answer Count: 5
+
+			2019-02-11 10:05	Title: What is the difference between #!/bin/sh and #!/bin/bash?
+								Sentiment: neutral	Score: 332	Answer Count: 4
+
+
+Week 8			 Total posts 3682
+
+			2017-02-21 09:19	Title: How to download an MP3 track from a YouTube video
+								Sentiment: 3.6363636363636362% positive	Score: 317	Answer Count: 3
+
+			2014-02-17 00:49	Title: How do I find out my motherboard model?
+								Sentiment: neutral	Score: 265	Answer Count: 6
+
+			2018-02-25 07:58	Title: How to install the latest versions of NodeJS and NPM?
+								Sentiment: neutral	Score: 214	Answer Count: 19
+
+			2014-02-22 17:47	Title: How to install Eclipse?
+								Sentiment: neutral	Score: 204	Answer Count: 19
+
+			2011-02-21 11:40	Title: How do I compress a directory?
+								Sentiment: 1.36986301369863% negative	Score: 182	Answer Count: 3
+
+
+Week 9			 Total posts 3491
+
+			2017-03-03 04:16	Title: The following packages have been kept back: Why and how do I solve it?
+								Sentiment: neutral	Score: 1012	Answer Count: 17
+
+			2015-02-27 01:00	Title: How to force a clock update using ntp?
+								Sentiment: 2.051282051282051% positive	Score: 397	Answer Count: 18
+
+			2015-02-25 15:50	Title: How to prevent Write Failed: broken pipe on SSH connection?
+								Sentiment: 3.8461538461538463% negative	Score: 326	Answer Count: 10
+
+			2015-02-24 15:15	Title: How to customize the Ubuntu Live CD?
+								Sentiment: 4.878048780487805% positive	Score: 213	Answer Count: 16
+
+			2013-03-02 04:26	Title: How to Edit PDFs?
+								Sentiment: 3.10077519379845% positive	Score: 211	Answer Count: 13
+
+
+Week 10			 Total posts 3765
+
+			2017-03-06 17:06	Title: What should I do when Ubuntu freezes?
+								Sentiment: 1.6129032258064515% negative	Score: 654	Answer Count: 45
+
+			2015-03-04 13:37	Title: How can I reduce the file size of a scanned PDF file?
+								Sentiment: neutral	Score: 474	Answer Count: 21
+
+			2014-03-04 14:14	Title: How to install specific version of some package?
+								Sentiment: neutral	Score: 295	Answer Count: 2
+
+			2014-03-09 18:56	Title: How do I view all available HDD's/partitions?
+								Sentiment: 1.2195121951219512% positive	Score: 286	Answer Count: 10
+
+			2011-03-07 13:41	Title: How to check if a command succeeded?
+								Sentiment: 2.272727272727273% negative	Score: 281	Answer Count: 8
+
+
+Week 11			 Total posts 3504
+
+			2017-03-16 14:45	Title: Where is the cron / crontab log?
+								Sentiment: neutral	Score: 860	Answer Count: 11
+
+			2018-03-15 21:45	Title: How to show the transfer progress and speed when copying files with cp?
+								Sentiment: neutral	Score: 378	Answer Count: 19
+
+			2017-03-14 03:01	Title: How do I use variables in a sed command?
+								Sentiment: neutral	Score: 370	Answer Count: 2
+
+			2011-03-15 20:31	Title: What are the meta, super, and hyper keys?
+								Sentiment: neutral	Score: 194	Answer Count: 1
+
+			2014-03-10 16:39	Title: Best way to cache apt downloads on a LAN?
+								Sentiment: neutral	Score: 154	Answer Count: 6
+
+
+Week 12			 Total posts 3758
+
+			2016-03-23 12:18	Title: How to extract files to another directory using 'tar' command?
+								Sentiment: neutral	Score: 734	Answer Count: 6
+
+			2017-03-23 15:31	Title: How to make 'python' program command execute Python 3?
+								Sentiment: neutral	Score: 432	Answer Count: 8
+
+			2014-03-20 00:21	Title: How to let `dpkg -i` install dependencies for me?
+								Sentiment: neutral	Score: 399	Answer Count: 11
+
+			2018-03-20 10:31	Title: How to select video quality from youtube-dl?
+								Sentiment: 2.0408163265306123% positive	Score: 331	Answer Count: 9
+
+			2013-03-18 11:55	Title: Any way to search for text within nano?
+								Sentiment: 3.4482758620689653% positive	Score: 202	Answer Count: 4
+
+
+Week 13			 Total posts 3384
+
+			2016-03-29 12:05	Title: How to download a file from a website via terminal?
+								Sentiment: 5.714285714285714% positive	Score: 348	Answer Count: 6
+
+			2016-04-02 21:05	Title: How to restart X Window Server from command line?
+								Sentiment: 4.166666666666666% positive	Score: 277	Answer Count: 6
+
+			2019-03-27 03:19	Title: How do I stop Apache2 from automatically starting on boot?
+								Sentiment: neutral	Score: 201	Answer Count: 4
+
+			2017-03-30 01:36	Title: How do I install the latest Python 2.7.X or 3.X on Ubuntu?
+								Sentiment: 3.7037037037037033% positive	Score: 185	Answer Count: 6
+
+			2014-03-28 04:19	Title: Where is the .Trash folder?
+								Sentiment: neutral	Score: 154	Answer Count: 4
+
+
+Week 14			 Total posts 3349
+
+			2020-04-03 16:10	Title: How do I search for available packages from the command-line?
+								Sentiment: 5.88235294117647% positive	Score: 686	Answer Count: 6
+
+			2014-04-06 02:13	Title: Is there a program like Microsoft Paint?
+								Sentiment: 5.263157894736842% positive	Score: 313	Answer Count: 7
+
+			2015-03-30 17:13	Title: How can I view the contents of tar.gz file without extracting from the command-line?
+								Sentiment: neutral	Score: 293	Answer Count: 11
+
+			2014-04-06 11:32	Title: How can I check the available version of a package in the repositories?
+								Sentiment: 7.142857142857142% positive	Score: 287	Answer Count: 7
+
+			2015-04-01 09:38	Title: What is the difference between Redirection and Pipe?
+								Sentiment: neutral	Score: 236	Answer Count: 8
+
+
+Week 15			 Total posts 20805
+
+			2017-04-15 18:22	Title: How to add existing user to an existing group?
+								Sentiment: 4.838709677419355% positive	Score: 720	Answer Count: 7
+
+			2017-04-13 12:24	Title: How can I install Sun/Oracle's proprietary Java JDK 6/7/8 or JRE?
+								Sentiment: 2.0% positive	Score: 569	Answer Count: 28
+
+			2017-04-13 12:25	Title: What is the difference between apt and apt-get?
+								Sentiment: 3.4482758620689653% positive	Score: 564	Answer Count: 4
+
+			2017-04-13 12:24	Title: What are PPAs and how do I use them?
+								Sentiment: 1.5625% positive	Score: 517	Answer Count: 10
+
+			2017-04-13 12:24	Title: Which one is better: using ; or &amp;&amp; to execute multiple commands in one line?
+								Sentiment: 1.4492753623188406% positive	Score: 497	Answer Count: 6
+
+
+Week 16			 Total posts 3694
+
+			2013-04-16 21:09	Title: How can I edit/create new launcher items in Unity by hand?
+								Sentiment: 1.9801980198019802% negative	Score: 458	Answer Count: 15
+
+			2018-04-18 17:14	Title: Run a shell script as another user that has no password
+								Sentiment: 4.0% positive	Score: 284	Answer Count: 5
+
+			2017-04-23 11:13	Title: vi shortcut to delete until the next X character
+								Sentiment: neutral	Score: 222	Answer Count: 5
+
+			2017-04-20 17:54	Title: Find a file by name using command-line
+								Sentiment: 3.225806451612903% positive	Score: 219	Answer Count: 8
+
+			2013-04-15 02:52	Title: How to determine which window manager is running
+								Sentiment: neutral	Score: 210	Answer Count: 13
+
+
+Week 17			 Total posts 4648
+
+			2017-04-27 15:46	Title: How to upgrade a single package using apt-get?
+								Sentiment: 2.666666666666667% positive	Score: 894	Answer Count: 8
+
+			2014-04-24 11:13	Title: How do I install Guest Additions in a VirtualBox VM?
+								Sentiment: neutral	Score: 484	Answer Count: 13
+
+			2013-04-23 21:29	Title: How do I disable mouse magnet on middle edge with multi monitors?
+								Sentiment: 5.084745762711865% positive	Score: 405	Answer Count: 11
+
+			2018-04-27 18:31	Title: How do I configure swappiness?
+								Sentiment: 10.0% positive	Score: 384	Answer Count: 2
+
+			2012-04-23 22:32	Title: How do I increase the hard disk size of the virtual machine?
+								Sentiment: 0.625% negative	Score: 279	Answer Count: 15
+
+
+Week 18			 Total posts 4437
+
+			2018-05-01 17:39	Title: What is the difference between adduser and useradd?
+								Sentiment: neutral	Score: 498	Answer Count: 8
+
+			2012-04-30 06:47	Title: How do I modify or disable the HUD's use of the Alt key?
+								Sentiment: 3.7037037037037033% positive	Score: 483	Answer Count: 8
+
+			2019-05-03 15:46	Title: How do I check which shell I am using?
+								Sentiment: neutral	Score: 481	Answer Count: 7
+
+			2017-05-06 17:02	Title: What kinds of desktop environments and shells are available?
+								Sentiment: 2.857142857142857% positive	Score: 418	Answer Count: 30
+
+			2014-05-04 13:20	Title: How to prevent updating of a specific package?
+								Sentiment: 3.571428571428571% positive	Score: 417	Answer Count: 13
+
+
+Week 19			 Total posts 4408
+
+			2017-05-08 18:15	Title: Why crontab scripts are not working?
+								Sentiment: 1.7241379310344827% positive	Score: 574	Answer Count: 46
+
+			2019-05-08 02:33	Title: How to list all enabled services from systemctl?
+								Sentiment: 4.166666666666666% positive	Score: 382	Answer Count: 6
+
+			2014-05-10 18:29	Title: How can I install software or packages without Internet (offline)?
+								Sentiment: neutral	Score: 267	Answer Count: 24
+
+			2015-05-07 13:26	Title: What is the difference between /etc/init/ and /etc/init.d/?
+								Sentiment: neutral	Score: 236	Answer Count: 3
+
+			2016-05-12 19:10	Title: How do I install different (upgrade or downgrade) PHP version in still supported Ubuntu release?
+								Sentiment: 1.7543859649122806% positive	Score: 231	Answer Count: 2
+
+
+Week 20			 Total posts 4369
+
+			2016-05-20 01:02	Title: How do I change the GRUB boot order?
+								Sentiment: 5.769230769230769% positive	Score: 358	Answer Count: 6
+
+			2016-05-19 22:32	Title: What is an AppImage? How do I install it?
+								Sentiment: 1.4925373134328357% negative	Score: 299	Answer Count: 5
+
+			2014-05-17 15:05	Title: How can I find my User ID (UID) from terminal?
+								Sentiment: neutral	Score: 211	Answer Count: 4
+
+			2015-05-17 09:39	Title: How do I get and modify the source code of packages installed through apt-get?
+								Sentiment: 5.454545454545454% positive	Score: 180	Answer Count: 5
+
+			2014-05-15 15:18	Title: Complete Installation Guide for Android SDK / ADT Bundle on Ubuntu
+								Sentiment: 3.7037037037037033% positive	Score: 158	Answer Count: 6
+
+
+Week 21			 Total posts 4524
+
+			2014-05-20 14:54	Title: How to enable or disable services?
+								Sentiment: neutral	Score: 855	Answer Count: 9
+
+			2017-05-23 12:39	Title: How do I add environment variables?
+								Sentiment: 1.0309278350515463% negative	Score: 476	Answer Count: 6
+
+			2014-05-23 05:43	Title: How do I report a bug?
+								Sentiment: neutral	Score: 464	Answer Count: 7
+
+			2015-05-18 13:42	Title: How to redirect stderr to a file
+								Sentiment: 7.142857142857142% negative	Score: 460	Answer Count: 2
+
+			2014-05-23 22:17	Title: What is the difference between apt-get update and upgrade?
+								Sentiment: neutral	Score: 443	Answer Count: 1
+
+
+Week 22			 Total posts 4252
+
+			2012-05-30 16:44	Title: How do I find the amount of free space on my hard drive?
+								Sentiment: 5.555555555555555% positive	Score: 577	Answer Count: 16
+
+			2014-05-30 01:38	Title: Is it possible to remove a particular host key from SSH's known_hosts file?
+								Sentiment: 2.941176470588235% negative	Score: 345	Answer Count: 8
+
+			2017-05-30 11:38	Title: How to show line numbering in nano when opening a file
+								Sentiment: neutral	Score: 300	Answer Count: 5
+
+			2016-05-31 15:53	Title: What is the safest way to clean up /boot partition?
+								Sentiment: 3.3333333333333335% negative	Score: 286	Answer Count: 7
+
+			2011-06-04 18:43	Title: How can I set up password-less SSH login?
+								Sentiment: neutral	Score: 278	Answer Count: 10
+
+
+Week 23			 Total posts 4280
+
+			2016-06-08 17:48	Title: How to list all installed packages
+								Sentiment: 3.8461538461538463% positive	Score: 2138	Answer Count: 23
+
+			2014-06-08 23:28	Title: How can I update my nodeJS to the latest version?
+								Sentiment: 1.9607843137254901% positive	Score: 773	Answer Count: 14
+
+			2020-06-04 22:03	Title: How to install software or upgrade from an old unsupported release?
+								Sentiment: 2.5% negative	Score: 433	Answer Count: 11
+
+			2014-06-03 10:21	Title: How to enable hibernation?
+								Sentiment: 4.545454545454546% negative	Score: 427	Answer Count: 10
+
+			2019-06-04 10:12	Title: How to install OpenJDK 8 on 14.04 LTS?
+								Sentiment: 3.571428571428571% positive	Score: 315	Answer Count: 12
+
+
+Week 24			 Total posts 7195
+
+			2016-06-15 11:06	Title: How do I shut down or reboot from a terminal?
+								Sentiment: neutral	Score: 866	Answer Count: 5
+
+			2020-06-12 14:37	Title: My computer boots to a black screen, what options do I have to fix it?
+								Sentiment: neutral	Score: 489	Answer Count: 32
+
+			2018-06-11 23:22	Title: Differences between /bin, /sbin, /usr/bin, /usr/sbin, /usr/local/bin, /usr/local/sbin
+								Sentiment: 2.127659574468085% negative	Score: 329	Answer Count: 2
+
+			2020-06-08 22:02	Title: Dwarf Fortress starting during apt-get upgrade
+								Sentiment: 2.197802197802198% positive	Score: 323	Answer Count: 2
+
+			2014-06-12 16:46	Title: How can I stop being prompted to unlock the 'default' keyring on boot?
+								Sentiment: 2.7027027027027026% positive	Score: 306	Answer Count: 11
+
+
+Week 25			 Total posts 4394
+
+			2014-06-20 19:03	Title: How do I install Sublime Text 2/3?
+								Sentiment: 3.0303030303030303% positive	Score: 479	Answer Count: 13
+
+			2017-06-20 09:23	Title: Are PPAs safe to add to my system and what are some red flags to watch out for?
+								Sentiment: 3.9215686274509802% positive	Score: 311	Answer Count: 8
+
+			2020-06-15 10:16	Title: How can I remove Amazon search results from the dash or disable the feature?
+								Sentiment: 11.11111111111111% negative	Score: 271	Answer Count: 12
+
+			2015-06-16 13:50	Title: How to install specific Ubuntu packages, with exact version?
+								Sentiment: 0.8849557522123894% negative	Score: 252	Answer Count: 5
+
+			2015-06-19 08:29	Title: How to list dependent packages (reverse dependencies)?
+								Sentiment: 3.571428571428571% positive	Score: 246	Answer Count: 6
+
+
+Week 26			 Total posts 3739
+
+			2016-07-02 10:33	Title: Unable to lock the administration directory (/var/lib/dpkg/) is another process using it?
+								Sentiment: 3.125% negative	Score: 1079	Answer Count: 24
+
+			2015-06-23 20:51	Title: What is the correct way to completely remove an application?
+								Sentiment: 4.761904761904762% positive	Score: 620	Answer Count: 8
+
+			2017-06-30 12:16	Title: How to downgrade a package via apt-get?
+								Sentiment: 5.263157894736842% negative	Score: 340	Answer Count: 6
+
+			2012-06-29 23:19	Title: Why is swap being used even though I have plenty of free RAM?
+								Sentiment: 2.857142857142857% positive	Score: 233	Answer Count: 6
+
+			2017-06-29 20:24	Title: Installed Teamviewer using a 64-bit system, but I get a dependency error
+								Sentiment: neutral	Score: 221	Answer Count: 5
+
+
+Week 27			 Total posts 3698
+
+			2014-07-02 18:10	Title: A command to list all users? And how to add, delete, modify users?
+								Sentiment: neutral	Score: 939	Answer Count: 9
+
+			2018-07-05 18:22	Title: How to check Internet Speed via Terminal?
+								Sentiment: 3.8461538461538463% positive	Score: 552	Answer Count: 16
+
+			2012-07-03 18:15	Title: Can I move the Unity launcher?
+								Sentiment: 3.125% positive	Score: 257	Answer Count: 7
+
+			2016-07-04 16:21	Title: How do I start/stop mysql server?
+								Sentiment: neutral	Score: 233	Answer Count: 10
+
+			2019-07-07 17:48	Title: How do I download a YouTube video?
+								Sentiment: 1.0309278350515463% negative	Score: 207	Answer Count: 29
+
+
+Week 28			 Total posts 3873
+
+			2015-07-12 21:54	Title: How can I copy the contents of a folder to another folder in a different directory using terminal?
+								Sentiment: neutral	Score: 912	Answer Count: 7
+
+			2020-07-06 12:23	Title: How can I extract a page range / a part of a PDF?
+								Sentiment: neutral	Score: 525	Answer Count: 18
+
+			2018-07-11 19:42	Title: How to create a bootable Ubuntu USB flash drive from terminal?
+								Sentiment: neutral	Score: 416	Answer Count: 8
+
+			2014-07-11 19:27	Title: How do I check the SHA1 hash of a file?
+								Sentiment: neutral	Score: 266	Answer Count: 6
+
+			2020-07-08 13:10	Title: How do I find my internal ip address?
+								Sentiment: neutral	Score: 241	Answer Count: 9
+
+
+Week 29			 Total posts 3425
+
+			2012-07-17 04:14	Title: Simple image editor?
+								Sentiment: 4.301075268817205% positive	Score: 245	Answer Count: 6
+
+			2011-07-23 00:18	Title: How to get the MD5 hash of a string directly in the terminal?
+								Sentiment: neutral	Score: 218	Answer Count: 9
+
+			2015-07-19 06:46	Title: How do I set the grub timeout and the grub default boot entry?
+								Sentiment: neutral	Score: 216	Answer Count: 8
+
+			2017-07-22 20:23	Title: Generating list of manually installed packages and querying individual packages
+								Sentiment: 5.714285714285714% positive	Score: 215	Answer Count: 13
+
+			2018-07-19 21:28	Title: How to copy paste contents in the vi editor
+								Sentiment: neutral	Score: 200	Answer Count: 13
+
+
+Week 30			 Total posts 3718
+
+			2017-07-28 20:40	Title: How do I fix the GPG error NO_PUBKEY?
+								Sentiment: 4.477611940298507% positive	Score: 416	Answer Count: 12
+
+			2017-07-25 11:21	Title: How to access a usb flash drive from the terminal?
+								Sentiment: neutral	Score: 274	Answer Count: 6
+
+			2014-07-24 19:30	Title: How do I install .run files?
+								Sentiment: 2.857142857142857% positive	Score: 236	Answer Count: 6
+
+			2015-07-22 10:13	Title: How to burn a Windows .iso to a USB device?
+								Sentiment: 4.3478260869565215% negative	Score: 234	Answer Count: 10
+
+			2014-07-22 19:53	Title: How do I enable automatic updates?
+								Sentiment: neutral	Score: 142	Answer Count: 5
+
+
+Week 31			 Total posts 3644
+
+			2019-08-02 07:06	Title: What command do I need to unzip/extract a .tar.gz file?
+								Sentiment: neutral	Score: 910	Answer Count: 8
+
+			2015-08-02 09:03	Title: How can I decode a base64 string from the command line?
+								Sentiment: 1.4925373134328357% positive	Score: 491	Answer Count: 7
+
+			2018-08-03 15:28	Title: Where is the Ubuntu file system root directory in Windows Subsystem for Linux and vice versa?
+								Sentiment: neutral	Score: 455	Answer Count: 5
+
+			2011-08-01 17:24	Title: How to use grep command to find text including subdirectories
+								Sentiment: neutral	Score: 416	Answer Count: 12
+
+			2019-08-03 15:35	Title: How do I run .sh scripts?
+								Sentiment: neutral	Score: 390	Answer Count: 16
+
+
+Week 32			 Total posts 4246
+
+			2014-08-04 17:37	Title: How to delete a non-empty directory in Terminal?
+								Sentiment: 7.4074074074074066% negative	Score: 696	Answer Count: 5
+
+			2017-08-10 15:07	Title: How can I record my screen?
+								Sentiment: 1.4925373134328357% positive	Score: 572	Answer Count: 25
+
+			2017-08-09 22:56	Title: How to know what program is listening on a given port?
+								Sentiment: 1.5384615384615385% negative	Score: 423	Answer Count: 8
+
+			2020-08-04 08:31	Title: How to convert PDF to image?
+								Sentiment: 2.272727272727273% positive	Score: 397	Answer Count: 12
+
+			2011-08-09 22:20	Title: How can I tell Ubuntu to do nothing when I close my laptop lid?
+								Sentiment: 7.142857142857142% positive	Score: 333	Answer Count: 14
+
+
+Week 33			 Total posts 3912
+
+			2019-08-15 12:01	Title: How to make a file (e.g. a .sh script) executable, so it can be run from a terminal
+								Sentiment: neutral	Score: 303	Answer Count: 3
+
+			2014-08-14 08:53	Title: How do I remap certain keys or devices?
+								Sentiment: 3.571428571428571% positive	Score: 259	Answer Count: 8
+
+			2015-08-15 15:09	Title: How do I disable X at boot time so that the system boots in text mode?
+								Sentiment: neutral	Score: 235	Answer Count: 16
+
+			2018-08-15 06:29	Title: How do I remount a filesystem as read/write?
+								Sentiment: neutral	Score: 177	Answer Count: 5
+
+			2020-08-13 16:15	Title: Why is Ubuntu moving to Snap packages?
+								Sentiment: 5.88235294117647% positive	Score: 170	Answer Count: 4
+
+
+Week 34			 Total posts 3827
+
+			2015-08-18 11:26	Title: How do I set up a Cron job?
+								Sentiment: neutral	Score: 566	Answer Count: 8
+
+			2017-08-26 04:06	Title: How to display network traffic in the terminal?
+								Sentiment: neutral	Score: 455	Answer Count: 20
+
+			2016-08-24 12:25	Title: How to list all variables names and their current values?
+								Sentiment: neutral	Score: 375	Answer Count: 10
+
+			2015-08-20 01:33	Title: How to format a USB flash drive?
+								Sentiment: 5.88235294117647% positive	Score: 295	Answer Count: 14
+
+			2019-08-23 17:57	Title: Convert a directory of JPEG files to a single PDF document
+								Sentiment: 6.0606060606060606% positive	Score: 271	Answer Count: 8
+
+
+Week 35			 Total posts 3866
+
+			2014-08-31 05:34	Title: What does sudo apt-get update do?
+								Sentiment: neutral	Score: 574	Answer Count: 9
+
+			2019-08-27 14:11	Title: How do I install Ubuntu alongside a pre-installed Windows with UEFI?
+								Sentiment: 6.451612903225806% positive	Score: 564	Answer Count: 12
+
+			2014-08-27 20:08	Title: How do I change the hostname without a restart?
+								Sentiment: neutral	Score: 517	Answer Count: 14
+
+			2017-09-02 08:43	Title: How do I make rsync delete files that have been deleted from the source folder?
+								Sentiment: 0.7246376811594203% positive	Score: 246	Answer Count: 6
+
+			2010-09-04 12:54	Title: What is LVM and what is it used for?
+								Sentiment: 8.695652173913043% positive	Score: 237	Answer Count: 5
+
+
+Week 36			 Total posts 4082
+
+			2014-09-05 20:24	Title: Find and replace text within a file using commands
+								Sentiment: neutral	Score: 761	Answer Count: 7
+
+			2012-09-03 02:19	Title: How to create animated GIF images of a screencast?
+								Sentiment: neutral	Score: 504	Answer Count: 16
+
+			2017-09-05 18:26	Title: How to really clear the terminal?
+								Sentiment: 2.127659574468085% negative	Score: 434	Answer Count: 12
+
+			2016-09-05 10:42	Title: What does cp: omitting directory mean?
+								Sentiment: neutral	Score: 434	Answer Count: 7
+
+			2015-09-05 01:35	Title: How do I run specific sudo commands without a password?
+								Sentiment: 2.3255813953488373% positive	Score: 230	Answer Count: 2
+
+
+Week 37			 Total posts 3387
+
+			2012-09-12 03:45	Title: How do I change the computer name?
+								Sentiment: neutral	Score: 343	Answer Count: 13
+
+			2012-09-10 11:44	Title: How do I install fonts?
+								Sentiment: 9.090909090909092% positive	Score: 306	Answer Count: 13
+
+			2017-09-13 17:04	Title: Why is it bad to log in as root?
+								Sentiment: 1.0309278350515463% negative	Score: 205	Answer Count: 22
+
+			2017-09-11 08:40	Title: Traditional search-as-you-type on newer Nautilus versions
+								Sentiment: neutral	Score: 191	Answer Count: 8
+
+			2012-09-16 17:04	Title: How do I disable the guest session?
+								Sentiment: 3.7037037037037033% negative	Score: 184	Answer Count: 12
+
+
+Week 38			 Total posts 3205
+
+			2014-09-21 08:49	Title: How do I reset a lost administrative password?
+								Sentiment: 2.1739130434782608% negative	Score: 701	Answer Count: 15
+
+			2014-09-21 15:31	Title: How can I get octal file permissions from command line?
+								Sentiment: neutral	Score: 420	Answer Count: 6
+
+			2018-09-21 17:26	Title: How do I install Python 3.6 using apt-get?
+								Sentiment: 9.375% positive	Score: 401	Answer Count: 9
+
+			2016-09-19 11:52	Title: How can I see all versions of a package that are available in the archive?
+								Sentiment: neutral	Score: 297	Answer Count: 4
+
+			2014-09-19 14:54	Title: 'sudo su -' vs 'sudo -i' vs 'sudo /bin/bash' - when does it matter which is used, or does it matter at all?
+								Sentiment: 3.6363636363636362% positive	Score: 289	Answer Count: 2
+
+
+Week 39			 Total posts 3299
+
+			2016-10-02 02:00	Title: How do you monitor the progress of dd?
+								Sentiment: neutral	Score: 714	Answer Count: 20
+
+			2018-09-26 02:10	Title: How to show only hidden files in Terminal?
+								Sentiment: neutral	Score: 190	Answer Count: 17
+
+			2012-09-27 12:14	Title: How to mount an ISO file?
+								Sentiment: 6.451612903225806% negative	Score: 190	Answer Count: 13
+
+			2011-09-27 19:55	Title: Why is a virtual terminal virtual, and what/why/where is the real terminal?
+								Sentiment: neutral	Score: 187	Answer Count: 3
+
+			2017-09-29 18:44	Title: How to add Android Studio to the launcher?
+								Sentiment: 1.36986301369863% positive	Score: 160	Answer Count: 8
+
+
+Week 40			 Total posts 3361
+
+			2017-10-05 16:33	Title: How can I add a new user as sudoer using the command line?
+								Sentiment: neutral	Score: 867	Answer Count: 7
+
+			2013-10-05 07:54	Title: Hitting arrow keys adds characters in vi editor
+								Sentiment: 3.0303030303030303% negative	Score: 230	Answer Count: 15
+
+			2017-10-04 09:12	Title: How to make partitions mount at startup?
+								Sentiment: 1.2345679012345678% positive	Score: 193	Answer Count: 7
+
+			2014-10-03 19:54	Title: How to enable ssh root access on Ubuntu 14.04
+								Sentiment: 5.555555555555555% positive	Score: 143	Answer Count: 5
+
+			2019-10-01 02:34	Title: SSH Permission denied (publickey)
+								Sentiment: 3.9603960396039604% negative	Score: 142	Answer Count: 18
+
+
+Week 41			 Total posts 3814
+
+			2017-10-13 16:29	Title: How to unzip a zip file from the Terminal?
+								Sentiment: 5.263157894736842% positive	Score: 1629	Answer Count: 9
+
+			2014-10-08 01:04	Title: How to merge several PDF files?
+								Sentiment: neutral	Score: 416	Answer Count: 13
+
+			2015-10-09 11:44	Title: How to set JAVA_HOME for Java?
+								Sentiment: neutral	Score: 329	Answer Count: 3
+
+			2014-10-08 17:57	Title: How can I fix a 404 Error when using a PPA or updating my package lists?
+								Sentiment: 3.7037037037037033% negative	Score: 290	Answer Count: 9
+
+			2015-10-11 18:43	Title: Command-line to list DNS servers used by my system
+								Sentiment: neutral	Score: 290	Answer Count: 9
+
+
+Week 42			 Total posts 3762
+
+			2017-10-18 10:05	Title: What Application Indicators are available?
+								Sentiment: 4.098360655737705% positive	Score: 722	Answer Count: 82
+
+			2015-10-16 18:16	Title: How do I rename a directory via the command line?
+								Sentiment: neutral	Score: 619	Answer Count: 6
+
+			2014-10-17 11:30	Title: What is the difference between a hard link and a symbolic link?
+								Sentiment: 9.30232558139535% positive	Score: 510	Answer Count: 9
+
+			2015-10-16 13:51	Title: How do I check the version of Ubuntu I am running?
+								Sentiment: neutral	Score: 481	Answer Count: 4
+
+			2016-10-20 07:11	Title: Is there a GUI client for Git?
+								Sentiment: neutral	Score: 217	Answer Count: 13
+
+
+Week 43			 Total posts 3787
+
+			2014-10-23 15:43	Title: How do I resolve unmet dependencies after adding a PPA?
+								Sentiment: 1.4925373134328357% negative	Score: 583	Answer Count: 14
+
+			2016-10-26 18:38	Title: How do I check if I have a 32-bit or a 64-bit OS?
+								Sentiment: 5.405405405405405% positive	Score: 512	Answer Count: 14
+
+			2014-10-26 00:06	Title: How to backup settings and list of installed packages
+								Sentiment: 3.3333333333333335% positive	Score: 299	Answer Count: 15
+
+			2010-10-26 18:20	Title: How can I monitor the memory usage?
+								Sentiment: 4.6875% positive	Score: 283	Answer Count: 12
+
+			2013-10-25 10:14	Title: What do the STAT column values in ps mean?
+								Sentiment: neutral	Score: 193	Answer Count: 1
+
+
+Week 44			 Total posts 3631
+
+			2010-11-02 21:36	Title: Change folder permissions and ownership
+								Sentiment: 5.0% positive	Score: 594	Answer Count: 8
+
+			2014-10-28 05:04	Title: How can I repair grub? (How to get Ubuntu back after installing Windows?)
+								Sentiment: neutral	Score: 361	Answer Count: 13
+
+			2018-10-30 11:32	Title: Boot drops to a (initramfs) prompts/busybox
+								Sentiment: 1.6528925619834711% positive	Score: 265	Answer Count: 6
+
+			2012-10-31 09:35	Title: How do I copy files that need root access with scp?
+								Sentiment: neutral	Score: 186	Answer Count: 11
+
+			2015-10-28 17:23	Title: How to roll back Ubuntu to a previous version?
+								Sentiment: neutral	Score: 138	Answer Count: 9
+
+
+Week 45			 Total posts 3637
+
+			2016-11-08 18:11	Title: How to add a directory to the PATH?
+								Sentiment: neutral	Score: 791	Answer Count: 17
+
+			2017-11-11 16:20	Title: How to find a text file which contains a specific word inside (not in its name)
+								Sentiment: 2.4390243902439024% negative	Score: 138	Answer Count: 7
+
+			2018-11-08 15:46	Title: What do VIRT, RES and SHR mean in the top command?
+								Sentiment: 2.631578947368421% positive	Score: 109	Answer Count: 1
+
+			2011-11-09 05:51	Title: How to uninstall NetBeans?
+								Sentiment: 7.142857142857142% positive	Score: 107	Answer Count: 9
+
+			2019-11-07 14:24	Title: How to make read-only file system writable?
+								Sentiment: neutral	Score: 106	Answer Count: 6
+
+
+Week 46			 Total posts 3508
+
+			2013-11-15 16:16	Title: How can I recursively delete all files of a specific extension in the current directory?
+								Sentiment: neutral	Score: 629	Answer Count: 7
+
+			2014-11-10 18:51	Title: How do I install a .tar.gz (or .tar.bz2) file?
+								Sentiment: neutral	Score: 537	Answer Count: 13
+
+			2019-11-14 20:36	Title: How can I create a Windows bootable USB stick using Ubuntu?
+								Sentiment: 3.8461538461538463% positive	Score: 488	Answer Count: 14
+
+			2017-11-15 13:35	Title: How do I retrieve the public key from a SSH private key?
+								Sentiment: 2.3255813953488373% negative	Score: 486	Answer Count: 2
+
+			2014-11-12 23:37	Title: Trouble downloading packages list due to a Hash sum mismatch error
+								Sentiment: 4.444444444444445% negative	Score: 415	Answer Count: 22
+
+
+Week 47			 Total posts 3681
+
+			2012-11-23 11:00	Title: Command for determining my public IP?
+								Sentiment: neutral	Score: 699	Answer Count: 22
+
+			2016-11-23 19:22	Title: How to run scripts on start up?
+								Sentiment: neutral	Score: 587	Answer Count: 9
+
+			2015-11-18 00:54	Title: How do I fix a Problem with MergeList or status file could not be parsed error when trying to do an update?
+								Sentiment: neutral	Score: 365	Answer Count: 8
+
+			2014-11-23 06:48	Title: How to remove all files from a directory?
+								Sentiment: 5.555555555555555% positive	Score: 340	Answer Count: 9
+
+			2018-11-24 02:24	Title: What is the difference between Vi and Vim?
+								Sentiment: 3.125% positive	Score: 209	Answer Count: 5
+
+
+Week 48			 Total posts 3369
+
+			2013-12-01 06:26	Title: How do I upgrade to a newer version of Ubuntu?
+								Sentiment: neutral	Score: 436	Answer Count: 12
+
+			2018-11-27 21:36	Title: How do I find out the model of my graphics card?
+								Sentiment: 3.3333333333333335% positive	Score: 264	Answer Count: 10
+
+			2016-12-02 09:31	Title: Unable to locate package while trying to install packages with APT
+								Sentiment: 3.125% negative	Score: 248	Answer Count: 6
+
+			2016-11-29 15:35	Title: What is hardware enablement (HWE)?
+								Sentiment: neutral	Score: 209	Answer Count: 2
+
+			2018-11-27 20:17	Title: How do I add a user to the sudo group?
+								Sentiment: neutral	Score: 197	Answer Count: 8
+
+
+Week 49			 Total posts 3133
+
+			2012-12-07 07:02	Title: How can I change the date modified/created of a file?
+								Sentiment: neutral	Score: 269	Answer Count: 6
+
+			2011-12-07 14:12	Title: How to split larger files into smaller parts?
+								Sentiment: 3.8461538461538463% negative	Score: 202	Answer Count: 6
+
+			2017-12-07 09:19	Title: How do you test the network speed between two boxes?
+								Sentiment: 1.6129032258064515% positive	Score: 195	Answer Count: 8
+
+			2014-12-05 11:25	Title: Quickly place a window to another screen using only the keyboard
+								Sentiment: 4.49438202247191% positive	Score: 169	Answer Count: 10
+
+			2018-12-06 22:29	Title: How to use Undo functionality in Nano?
+								Sentiment: neutral	Score: 141	Answer Count: 3
+
+
+Week 50			 Total posts 3392
+
+			2018-12-16 08:47	Title: Error message sudo: unable to resolve host (none)
+								Sentiment: 6.451612903225806% negative	Score: 806	Answer Count: 20
+
+			2013-12-15 10:36	Title: What are Unity's keyboard and mouse shortcuts?
+								Sentiment: neutral	Score: 523	Answer Count: 11
+
+			2013-12-11 11:32	Title: How do I get a list of installed files from a package?
+								Sentiment: neutral	Score: 459	Answer Count: 6
+
+			2013-12-11 15:05	Title: How to empty swap if there is free RAM?
+								Sentiment: 3.1746031746031744% positive	Score: 373	Answer Count: 6
+
+			2012-12-11 05:22	Title: How to check hard disk performance
+								Sentiment: 4.545454545454546% negative	Score: 372	Answer Count: 8
+
+
+Week 51			 Total posts 3564
+
+			2014-12-16 15:48	Title: How do I change my username?
+								Sentiment: 3.6363636363636362% negative	Score: 365	Answer Count: 8
+
+			2015-12-14 14:08	Title: How can I tell, from the command line, whether the machine requires a reboot?
+								Sentiment: 4.918032786885246% positive	Score: 284	Answer Count: 9
+
+			2013-12-17 01:56	Title: How can I securely erase a hard drive?
+								Sentiment: 3.571428571428571% negative	Score: 227	Answer Count: 15
+
+			2016-12-20 20:33	Title: What is the Linux equivalent to Windows' Program Files?
+								Sentiment: neutral	Score: 200	Answer Count: 10
+
+			2015-12-14 03:05	Title: Is there a power saving application similar to Jupiter?
+								Sentiment: 3.4482758620689653% positive	Score: 183	Answer Count: 5
+
+
+Week 52			 Total posts 3384
+
+			2019-12-24 18:04	Title: How do I install a root certificate?
+								Sentiment: 2.857142857142857% positive	Score: 267	Answer Count: 9
+
+			2013-12-24 23:23	Title: How do I set Windows to boot as the default in the boot loader?
+								Sentiment: neutral	Score: 253	Answer Count: 16
+
+			2014-12-27 22:06	Title: How do I install the Firefox Developer Edition?
+								Sentiment: neutral	Score: 219	Answer Count: 10
+
+			2018-12-24 22:57	Title: Difference between systemctl and service commands
+								Sentiment: neutral	Score: 193	Answer Count: 2
+
+			2013-12-29 00:46	Title: How to restart nautilus without logging out?
+								Sentiment: neutral	Score: 185	Answer Count: 4
+
+
+Week 53			 Total posts 344
+
+			2015-12-30 06:46	Title: How do I find the kernel version, Ubuntu release and disk partition information from the terminal?
+								Sentiment: neutral	Score: 270	Answer Count: 7
+
+			2016-01-01 00:27	Title: What is the rationale for the `/usr` directory?
+								Sentiment: 1.9607843137254901% negative	Score: 116	Answer Count: 1
+
+			2016-01-01 11:58	Title: How do you set the timezone for crontab?
+								Sentiment: neutral	Score: 70	Answer Count: 12
+
+			2016-01-01 00:02	Title: What's the meaning of the Ubuntu logo? Where does it come from?
+								Sentiment: neutral	Score: 69	Answer Count: 3
+
+			2015-12-29 10:45	Title: How to use a real partition with Windows 7 installed, in a virtualbox vm?
+								Sentiment: 2.4390243902439024% positive	Score: 39	Answer Count: 6
+
+

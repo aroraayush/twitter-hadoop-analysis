@@ -1,0 +1,244 @@
+Week 23	count = 1 | Top 5 trending tags for the week
+[
+			#redsox, count=1]
+
+Week 24	count = 340342 | Top 5 trending tags for the week
+[
+			#HP6, count=23, 
+			#STEP5, count=20, 
+			#EDD, count=19, 
+			#yomoma, count=17, 
+			#Csick09, count=15]
+
+Week 25	count = 743506 | Top 5 trending tags for the week
+[
+			#Demi, count=23, 
+			#ftsk, count=20, 
+			#tremi, count=19, 
+			#twug, count=18, 
+			#PTFAO, count=18]
+
+Week 26	count = 663814 | Top 5 trending tags for the week
+[
+			#FTSK, count=23, 
+			#tumblr, count=17, 
+			#Twan, count=17, 
+			#dannyk, count=16, 
+			#SPday, count=16]
+
+Week 27	count = 645900 | Top 5 trending tags for the week
+[
+			#psh, count=28, 
+			#UHA, count=21, 
+			#devin, count=20, 
+			#McFLY, count=18, 
+			#ERIC, count=18]
+
+Week 28	count = 693953 | Top 5 trending tags for the week
+[
+			#ftw, count=28, 
+			#sym, count=26, 
+			#RMT, count=25, 
+			#Keri, count=23, 
+			#gws, count=23]
+
+Week 29	count = 683911 | Top 5 trending tags for the week
+[
+			#Sway, count=22, 
+			#desu, count=21, 
+			#wowp, count=21, 
+			#NOH8, count=21, 
+			#IAM., count=20]
+
+Week 30	count = 1148617 | Top 5 trending tags for the week
+[
+			#DOH, count=24, 
+			#lava, count=23, 
+			#jemi, count=23, 
+			#eggo, count=22, 
+			#Nemi, count=22]
+
+Week 31	count = 2585787 | Top 5 trending tags for the week
+[
+			#BWN, count=28, 
+			#Jaz, count=24, 
+			#meow, count=23, 
+			#Jose, count=22, 
+			#CINE, count=20]
+
+Week 32	count = 2866652 | Top 5 trending tags for the week
+[
+			#DTA, count=24, 
+			#SSTV, count=21, 
+			#Toyz, count=20, 
+			#shane, count=20, 
+			#Onyx, count=19]
+
+Week 33	count = 2725539 | Top 5 trending tags for the week
+[
+			#AYE, count=27, 
+			#JMV, count=25, 
+			#DUE, count=24, 
+			#ket, count=24, 
+			#PME, count=23]
+
+Week 34	count = 3034016 | Top 5 trending tags for the week
+[
+			#b4L, count=27, 
+			#Jace, count=23, 
+			#CAPS, count=21, 
+			#AWAY, count=20, 
+			#MOMF, count=20]
+
+Week 35	count = 2584317 | Top 5 trending tags for the week
+[
+			#SNRC, count=22, 
+			#pvll, count=22, 
+			#ivete, count=20, 
+			#HARDY, count=18, 
+			#BSK, count=18]
+
+Week 36	count = 2569932 | Top 5 trending tags for the week
+[
+			#iam, count=27, 
+			#MCR, count=22, 
+			#TKO, count=21, 
+			#Nouf, count=19, 
+			#BECKZ, count=18]
+
+Week 37	count = 1988034 | Top 5 trending tags for the week
+[
+			#_)_, count=25, 
+			#FBS, count=24, 
+			#COKE, count=23, 
+			#GBC, count=23, 
+			#txf, count=22]
+
+Week 38	count = 1976906 | Top 5 trending tags for the week
+[
+			#Ze, count=27, 
+			#nob, count=27, 
+			#oll, count=27, 
+			#3id, count=25, 
+			#TVD, count=23]
+
+Week 39	count = 2339707 | Top 5 trending tags for the week
+[
+			#jc, count=28, 
+			#DDB, count=25, 
+			#FAP, count=24, 
+			#oll, count=24, 
+			#A7x, count=23]
+
+Week 40	count = 1919846 | Top 5 trending tags for the week
+[
+			#Bã, count=33, 
+			#BT, count=32, 
+			#Z, count=28, 
+			#LBW, count=28, 
+			#CMA, count=27]
+
+Week 41	count = 1720052 | Top 5 trending tags for the week
+[
+			#ಠ_ಠ, count=26, 
+			#APD, count=24, 
+			#jaeb, count=23, 
+			#2FK, count=23, 
+			#FAP, count=22]
+
+Week 42	count = 2004719 | Top 5 trending tags for the week
+[
+			#69, count=27, 
+			#KAΨ, count=24, 
+			#NOPE, count=23, 
+			#sono, count=21, 
+			#DLK, count=21]
+
+Week 43	count = 1898766 | Top 5 trending tags for the week
+[
+			#OMH, count=25, 
+			#JK, count=24, 
+			#fsu, count=24, 
+			#cunt, count=23, 
+			#dboz, count=23]
+
+Week 44	count = 1293418 | Top 5 trending tags for the week
+[
+			#Z, count=28, 
+			#RKO, count=26, 
+			#උදාර, count=23, 
+			#SWT, count=22, 
+			#(red), count=20]
+
+Week 45	count = 1235603 | Top 5 trending tags for the week
+[
+			#JA, count=30, 
+			#LO, count=30, 
+			#DBG, count=27, 
+			#jv, count=21, 
+			#dong, count=21]
+
+Week 46	count = 1359316 | Top 5 trending tags for the week
+[
+			#Z, count=28, 
+			#$HP, count=25, 
+			#Kris, count=23, 
+			#2k09, count=20, 
+			#GHBAC, count=20]
+
+Week 47	count = 1380078 | Top 5 trending tags for the week
+[
+			#S2N, count=27, 
+			#G4L, count=24, 
+			#ΩΨΦ, count=23, 
+			#mole, count=22, 
+			#bete, count=20]
+
+Week 48	count = 1429336 | Top 5 trending tags for the week
+[
+			#DEKO, count=23, 
+			#JOE, count=23, 
+			#duku, count=19, 
+			#odio,, count=19, 
+			#natie, count=19]
+
+Week 49	count = 1233691 | Top 5 trending tags for the week
+[
+			#xde, count=26, 
+			#CURE, count=20, 
+			#ILR, count=20, 
+			#gvsu, count=19, 
+			#FLCL, count=19]
+
+Week 50	count = 1380736 | Top 5 trending tags for the week
+[
+			#G30, count=25, 
+			#DY, count=24, 
+			#AAR, count=24, 
+			#eg3, count=20, 
+			#saci, count=20]
+
+Week 51	count = 1227464 | Top 5 trending tags for the week
+[
+			#O&gt;&lt;/, count=23, 
+			#LTL, count=23, 
+			#Jasam, count=18, 
+			#FBCS, count=17, 
+			#spoons, count=17]
+
+Week 52	count = 1282529 | Top 5 trending tags for the week
+[
+			#HAN, count=22, 
+			#sibuk, count=20, 
+			#DRUNK, count=19, 
+			#mosh, count=19, 
+			#Famm, count=18]
+
+Week 53	count = 718910 | Top 5 trending tags for the week
+[
+			#mj, count=30, 
+			#VKS, count=27, 
+			#veu, count=24, 
+			#iCAN, count=23, 
+			#FBDP, count=23]
+
